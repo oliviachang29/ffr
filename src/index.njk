@@ -1,9 +1,87 @@
 ---
 layout: base
 eleventyNavigation:
-  key: Home
+    key: Home
 ---
 
-<div class="container">
-    <h1>A blank 11ty project.</h1>
+<div class="container-fluid d-flex align-items-center justify-content-center hero hero__large">
+  <div class="col-md-6 d-flex flex-column align-items-center">
+    <h1>No more fossil fuel money</h1>
+    <button type="button" class="btn btn-primary" href="/take-action">
+      Take Action
+    </button>
+  </div>
 </div>
+<section id="who-we-are">
+  <div class="container">
+    <div class="offset-md-3 col-md-6">
+      {% set sectionTitle = "Who We Are" %}
+      {% include "title.njk" %}
+      <p class="text-align-center description">
+        Fossil Free Research is a new campaign to end the toxic influence of fossil fuel money on climate change-related
+        research in universities. It is coordinated by international student divestment and climate justice activists with the
+        support of a wide range of academics, climate experts, and university members.
+      </p>
+      <p class="text-align-center">
+        Our campaign has received coverage from:
+      </p>
+    </div>
+    <div id="who-we-are__coverage" class="d-flex flex-row justify-content-center align-items-center">
+      {% for coverage in home.coverage %}
+        <a href="{{ coverage.link }}">
+          <img src="{{ coverage.image }}" height="{{ coverage.height }}"/>
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<section id="letter" class="section-gray-background">
+  <div class="container">
+    <div class="offset-md-2 col-md-8">
+      {% set sectionTitle = "Our Open Letter" %}
+      {% include "title.njk" %}
+      <div class="row">
+        <div class="col-md-6">
+          {% include "letterstats.njk" %}
+          <p class="description">
+            We are calling on U.K. and U.S. universities to institute a ban on accepting fossil fuel industry funding for climate
+            change, environmental, and energy policy research.
+          </p>
+          <button type="button" class="btn btn-primary" href="/letter">
+            Read the letter
+          </button>
+        </div>
+        <div class="col-md-6">
+          <img src="/assets/images/oxford.jpg" width="100%"/>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section id="who-we-are">
+  <div class="container">
+    <div class="offset-md-3 col-md-6 d-flex flex-column align-items-center">
+      {% set sectionTitle = "Explainer" %}
+      {% include "title.njk" %}
+      <p class="text-align-center description">
+        Oil and gas giants develop numerous research parnterships with universities, including elite players like Harvard,
+        Stanford, Oxford, Cambridge, and Princeton. They have a clear agenda in doing so: making themselves look like legitimate
+        partners in advancing climate solutions, and having a role in the production of knowledge around those solutions to
+        undermine climate action.
+      </p>
+      {% include "explainer.njk" %}
+    </div>
+  </div>
+</section>
+<section id="join-us" class="section-orange-background">
+  <div class="container">
+    <div class="offset-md-4 col-md-4 text-align-center">
+      <h2>Join Us</h2>
+      <p class="description">Want to help dismantle the fossil fuel industry’s insidious influence in academia/higher
+        education?
+      </p>
+      <button type="button" class="btn btn-primary" href="/take-action">
+        Take Action
+      </button>
+    </div>
+  </section>

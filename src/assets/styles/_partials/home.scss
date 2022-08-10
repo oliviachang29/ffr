@@ -1,0 +1,109 @@
+.hero {
+    display: flex;
+    flex-direction: column;
+    background-image: url('../../assets/images/hero.jpg');
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+
+    h1 {
+        color: #ffffff;
+        letter-spacing: 0;
+        text-align: center;
+    }
+
+    button {
+        margin-top: $SCALE-1;
+    }
+}
+
+.hero__large {
+    height: 90vh;
+    h1 {
+        font-size: 140px;
+        line-height: 110px;
+    }
+}
+
+.hero__medium {
+    height: 60vh;
+    h1 {
+        font-size: 80px;
+        line-height: 60px;
+    }
+}
+
+.hero__small {
+    height: 40vh;
+    h1 {
+        font-size: 80px;
+        line-height: 60px;
+    }
+}
+
+section {
+    padding: $SCALE-4 0 $SCALE-5;
+}
+
+#who-we-are {
+    p {
+        margin-bottom: $SCALE-2;
+    }
+}
+
+#who-we-are__coverage img {
+    // height: $SCALE-3;
+    padding: 0 10px;
+    width: auto;
+}
+
+#letter {
+    .large-numbers {
+        margin-bottom: $SCALE-1;
+    }
+    .large-number-container {
+        margin-right: $SCALE-2;
+    }
+
+    .description {
+        margin-bottom: $SCALE-1;
+    }
+}
+
+#join-us {
+    h2 {
+        font-size: 80px;
+    }
+    .description {
+        margin-bottom: $SCALE-2;
+    }
+}
+
+#signatories-list {
+    li {
+        list-style-type: disc;
+        margin-bottom: 10px;
+    }
+}
+
+.letter-large-numbers-container {
+    .large-numbers {
+        justify-content: center;
+    }
+    .large-number {
+        font-size: 80px;
+    }
+    .large-number-container {
+        margin: 0 $SCALE-2 $SCALE-3;
+    }
+}
+
+.letter-text {
+    margin-bottom: $SCALE-2;
+}
+
+.faqs {
+    h3 {
+        margin: $SCALE-2 0 5px;
+    }
+}

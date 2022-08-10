@@ -1,0 +1,29 @@
+---
+layout: base
+permalink: /resources/
+eleventyNavigation:
+  key: Resources
+---
+
+<div class="container-fluid d-flex justify-content-center align-items-center hero hero__small">
+    <h1 class="text-align-center">Resources</h1>
+</div>
+<section>
+    <div class="container">
+        <div class="offset-md-3 col-md-6">
+            {% set sectionTitle = "FAQs" %}
+            {% include "title.njk" %}
+            {% include "faqs.njk" %}
+            {% set sectionTitle = "Reports" %}
+            {% include "title.njk" %}
+            <p>Student reports on fossil fuel ties:</p>
+            <ul>
+                {% for report in home.reports %}
+                    <li class="bullet-point">
+                        <a href="{{ report.link }}">{{ report.title }}</a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</section>

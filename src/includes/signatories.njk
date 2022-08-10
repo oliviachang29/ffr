@@ -1,0 +1,26 @@
+<ul id="signatories-list" class="list"></ul>
+<script>
+    window.onload = async () => {
+        const sig_list = document.querySelector("#signatories-list");
+        const sig_response = await fetch(
+            "https://docs.google.com/spreadsheets/d/e/2PACX-1vRjE-lt2ZFM4HDMjhpZi_cUxFVB2GZsgDVpGxo8XcRfsa3gWo_brXCU2lAw9ToNWWQPgBLLY" +
+            "GUfOUFk/pub?output=csv"
+        );
+        if (sig_response.ok) {
+            const regexp = new RegExp('"(.+)",*');
+            let signatories = (await sig_response.text()).split("\n");
+            for (let signatory of signatories) {
+                const cleaned_sig = regexp.exec(signatory);
+                if (cleaned_sig === null) 
+                    continue;
+                
+                const li = document.createElement("li");
+                li.innerText = cleaned_sig[1];
+                sig_list.appendChild(li);
+            }
+        } else {
+            console.error(sig_response.statusText);
+            console.error(await sig_response.text());
+        }
+    }
+</script>

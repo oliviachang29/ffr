@@ -1,9 +1,20 @@
 .header {
-    padding: $spacing-y 0;
+    padding: 0 $SCALE-3;
+    background-color: white;
+
+    #logo {
+        height: 70px;
+    }
 
     &__inner {
+        height: 100px;
+        margin-bottom: -100px;
         display: flex;
         justify-content: space-between;
         align-items: center;
     }
+}
+
+.nav__link p {
+    color: white;
 }

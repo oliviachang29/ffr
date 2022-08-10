@@ -1,0 +1,47 @@
+{
+    "coverage": [
+        {
+            "link": "#",
+            "image": "/assets/images/nyt.png",
+            "height": "94px"
+        },
+        {
+            "link": "#",
+            "image": "/assets/images/guardian.png",
+            "height": "38px"
+        },
+        {
+            "link": "#",
+            "image": "/assets/images/mother jones.png",
+            "height": "78px"
+        },
+        {
+            "link": "https://www.bostonglobe.com/2022/06/13/science/universities-face-mounting-pressure-stop-taking-fossil-fuel-funds/",
+            "image": "/assets/images/boston globe.png",
+            "height": "88px"
+        },
+        {
+            "link": "#",
+            "image": "/assets/images/indp.png",
+            "height": "15px"
+        }
+    ],
+    "reports": [
+        {
+            "title": "George Washington University (UnKoch My Campus) ",
+            "link": "http://www.unkochmycampus.org/rsc-report"
+        },
+        {
+            "title": "Harvard (Fossil Fuel Divest Harvard)",
+            "link": "https://tinyurl.com/fossilfuelties"
+        },
+        {
+            "title": "Cambridge (Cambridge Climate Justice Campaign, former known as Cambridge Zero Carbon)",
+            "link": "http://zerocarbonsoc.soc.srcf.net/"
+        },
+        {
+            "title": "Oxford (Oxford Climate Justice Campaign)",
+            "link": "https://oxfordunifossilfree.files.wordpress.com/2021/08/money-people-reputation-oxfords-ties-with-the-fossil-fuel-industry-revision.pdf"
+        }
+    ]
+}

@@ -2,12 +2,13 @@
 // MASTER STYLESHEET INDEX
 // ---------------------------------
 
+@import 'utils/variables';
+
 //--------------------
 // UTILITIES
 //--------------------
 
 @import 'utils/functions';
-@import 'utils/variables';
 @import 'utils/mixins';
 
 //--------------------
@@ -29,8 +30,15 @@
 // COMPONENTS
 // partials with local scope to a component
 //--------------------
+@import './globals.scss';
 
 @import 'components/header';
 @import 'components/nav';
 @import 'components/footer';
 @import 'components/icon';
+
+//--------------------
+// PAGES
+// partials with local scope to a component
+//--------------------
+@import './_partials/home.scss';

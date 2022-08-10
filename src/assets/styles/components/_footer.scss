@@ -1,11 +1,12 @@
 .footer {
     font-size: 0.875rem;
-    padding: $spacing-y 0;
-    background-color: $gray-lightest;
-
-    &__inner {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
+    padding: $SCALE-3 0 $SCALE-5;
+    background-color: #424d68;
+    h2,
+    p {
+        color: white;
+    }
+    p {
+        font-size: 17px;
     }
 }
