@@ -1,0 +1,16 @@
+.take-action__action-container {
+    margin-bottom: $SCALE-2;
+}
+
+.take-action__list-number {
+    background-color: $orange;
+    width: 70px;
+    height: 70px;
+    color: $gray-dark;
+    border-radius: 100%;
+
+    span {
+        font-family: $FONT_HEADINGS;
+        font-size: 3rem;
+    }
+}

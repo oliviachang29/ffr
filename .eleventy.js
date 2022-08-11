@@ -1,6 +1,6 @@
 const pluginRss = require('@11ty/eleventy-plugin-rss')
 const pluginNavigation = require('@11ty/eleventy-navigation')
-const pluginSvgSprite = require("eleventy-plugin-svg-sprite");
+const pluginSvgSprite = require('eleventy-plugin-svg-sprite')
 const markdownIt = require('markdown-it')
 
 const filters = require('./utils/filters.js')
@@ -12,8 +12,8 @@ module.exports = function (config) {
     config.addPlugin(pluginRss)
     config.addPlugin(pluginNavigation)
     config.addPlugin(pluginSvgSprite, {
-        path: "./src/assets/icons",
-        svgSpriteShortcode: "iconsprite"
+        path: './src/assets/icons',
+        svgSpriteShortcode: 'iconsprite'
     })
 
     // Filters
@@ -47,7 +47,6 @@ module.exports = function (config) {
 
     // Layouts
     config.addLayoutAlias('base', 'base.njk')
-    config.addLayoutAlias('post', 'post.njk')
 
     // Pass-through files
     config.addPassthroughCopy('src/robots.txt')

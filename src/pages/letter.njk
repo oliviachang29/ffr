@@ -8,18 +8,36 @@ eleventyNavigation:
 <div class="container-fluid d-flex justify-content-center align-items-center hero hero__small">
     <h1 class="text-align-center">Our Letter</h1>
 </div>
-<section>
+<section class="section-orange-background">
     <div class="container">
-        <div class="offset-md-3 col-md-6">
-            <div class="letter-large-numbers-container">
+        <div class="offset-md-2 col-md-8 offset-lg-3 col-lg-6">
+            <div class="letter-large-numbers-container text-align-center">
                 {% include "letterstats.njk" %}
             </div>
-            <button type="button" class="btn btn-primary" href="https://forms.gle/ZUDwLUN7tZ2Gj85k9">
-                Sign the letter
+            <div class="d-flex flex-row justify-content-center">
+                <button
+                    id="letter__sign-the-letter-btn"
+                    type="button"
+                    class="btn btn-primary"
+                    href="https://forms.gle/ZUDwLUN7tZ2Gj85k9">
+                    Sign the letter
+                </div>
             </button>
+        </div>
+    </div>
+</section>
+<section>
+    <div class="container">
+        <div class="offset-md-2 col-md-8 offset-lg-3 col-lg-6">
             {% set sectionTitle = "The Letter" %}
             {% include "title.njk"%}
             {% include "letter.njk" %}
+        </div>
+    </div>
+</section>
+<section class="section-orange-background">
+    <div class="container">
+        <div class="offset-md-2 col-md-8 offset-lg-3 col-lg-6">
             {% set sectionTitle = "Signatories" %}
             {% include "title.njk"%}
             {% include "signatories.njk" %}

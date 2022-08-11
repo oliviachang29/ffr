@@ -8,10 +8,15 @@
     padding: 10px 30px;
 }
 
+section {
+    padding-bottom: $SCALE-3;
+}
+
 .section-title-container {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: $SCALE-1;
 
     .section-title-bar {
         background-color: $orange;
