@@ -51,7 +51,10 @@
 }
 
 .hero__small {
-    height: 40vh;
+    height: 60vh;
+    @media (min-width: $lg) {
+        height: 40vh;
+    }
     h1 {
         margin-top: $SCALE-1;
         font-size: 40px;
