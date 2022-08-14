@@ -7,32 +7,26 @@ eleventyNavigation:
   order: 2
 ---
 
-<div class="container-fluid d-flex justify-content-center align-items-center hero hero__small" style="background-image: url('/assets/images/hero_images/1.png')">
+<div class="container-fluid d-flex justify-content-center align-items-center hero hero__medium" style="background-image: url('/assets/images/hero_images/1.png')">
     <h1 class="text-align-center">Our Letter</h1>
-</div>
-<section class="section-orange-background section-small-padding">
-    <div class="container">
-        <div class="offset-md-1 col-md-10 offset-lg-2 col-lg-8 offset-xl-3 col-xl-6">
-            <div id="letter-page__large-numbers-container" class="text-align-center">
-                {% include "letterstats.njk" %}
-            </div>
-            <div class="d-flex flex-row justify-content-center">
-                <button
-                    id="letter__sign-the-letter-btn"
-                    type="button"
-                    class="btn btn-primary"
-                    href="https://forms.gle/ZUDwLUN7tZ2Gj85k9">
-                    Sign the letter
-                </div>
-            </button>
+    <div class="d-flex flex-row justify-content-center">
+        <button
+            id="letter__sign-the-letter-btn"
+            type="button"
+            class="btn btn-primary"
+            href="https://forms.gle/ZUDwLUN7tZ2Gj85k9">
+            Sign the letter
         </div>
-    </div>
-</section>
+    </button>
+</div>
 <section>
     <div class="container">
         <div class="offset-md-2 col-md-8">
             {% set sectionTitle = "The Letter" %}
             {% include "title.njk"%}
+            <div id="letter-page__large-numbers-container" class="text-align-center">
+                {% include "letterstats.njk" %}
+            </div>
             {% include "letter.njk" %}
         </div>
     </div>
