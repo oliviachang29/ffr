@@ -2,46 +2,14 @@
 // MASTER STYLESHEET INDEX
 // ---------------------------------
 
-@import 'utils/variables';
+@import './_partials/variables.scss';
 
-//--------------------
-// UTILITIES
-//--------------------
-
-@import 'utils/functions';
-@import 'utils/mixins';
-
-//--------------------
-// BASE MODULES
-// partials with global scope
-//--------------------
-
-@import 'base/fonts';
-@import 'base/normalize';
-@import 'base/reboot';
-@import 'base/layout';
-@import 'base/typography';
-@import 'base/focus';
-@import 'base/utilities';
-@import 'base/screenreader';
-@import 'base/animation';
-
-//--------------------
-// COMPONENTS
-// partials with local scope to a component
-//--------------------
-@import './globals.scss';
-
-@import 'components/header';
-@import 'components/nav';
-@import 'components/footer';
-@import 'components/icon';
-
-//--------------------
-// PAGES
-// partials with local scope to a component
-//--------------------
+@import './_partials/footer.scss';
+@import './_partials/header.scss';
+@import './_partials/normalize.scss';
+@import './_partials/typography.scss';
 @import './_partials/home.scss';
 @import './_partials/letter.scss';
 @import './_partials/resources.scss';
 @import './_partials/take_action.scss';
+@import './_partials/globals.scss';

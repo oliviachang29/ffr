@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>{{ meta.title }}</title>
+        <title>{{title}} | {{ meta.title }}</title>
         <link
             href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
             rel="stylesheet"
@@ -23,7 +23,6 @@
     </head>
     <body>
         {% iconsprite %}
-        <a href="#main" class="sr-skip-link">skip to main content</a>
         <div class="layout" role="document">
             {% include "header.njk" %}
             <main id="main" class="main" tabindex="-1">

@@ -1,14 +1,22 @@
-<header class="header" role="banner">
-    <div class="container">
-        <div class="header__inner d-flex flex-row align-items-center justify-content-space-between">
-            <div class="header__left">
-                <a href="/">
-                    <img id="logo" src="/assets/images/logo-white.png">
-                </a>
-            </div>
-            <div class="header__right">
-                {% include "navigation.njk" %}
-            </div>
-        </div>
+<nav class="navbar navbar-expand-lg navbar-dark">
+  <div class="container">
+    <a href="/">
+        <img id="logo" src="/assets/images/logo-white.png">
+    </a>
+    <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ms-auto">
+        {%- for item in collections.all | eleventyNavigation -%}
+            {%- if item.url -%}
+                {%- set isCurrent = (item.url == page.url) -%}
+                <li class="nav-item">
+                    <a class="nav-link {% if isCurrent %} active{% endif %}" aria-current="page" href="{{item.url | url}}">{{ item.title }}</a>
+                </li>
+            {%- endif -%}
+        {%- endfor -%}
+      </ul>
     </div>
-</header>
+  </div>
+</nav>

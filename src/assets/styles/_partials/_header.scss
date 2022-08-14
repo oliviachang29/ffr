@@ -1,0 +1,49 @@
+.navbar {
+    padding: 0 $SCALE-3;
+    background-color: transparent;
+
+    @media (max-width: $lg) {
+        padding-top: $SCALE-1;
+    }
+
+    #logo {
+        height: 70px;
+        @media (max-width: $lg) {
+            margin-top: $SCALE-1;
+        }
+    }
+
+    height: 100px;
+    // margin-bottom: -100px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white !important;
+    &:hover {
+        color: $orange;
+    }
+}
+
+.nav-link.active {
+    @media (min-width: $lg) {
+        color: $orange !important;
+    }
+}
+
+.navbar-toggler {
+    border: none;
+    color: white;
+    &:focus {
+        border: none;
+        color: transparent;
+    }
+}
+
+.navbar-collapse {
+    @media (max-width: $lg) {
+        margin-top: $SCALE-1;
+        background-color: $orange;
+        padding: $SCALE-1;
+    }
+}

@@ -1,4 +1,46 @@
 {
+    "letter": {
+        "signatories": 750,
+        "institutions": 130
+    },
+    "faqs": [
+        {
+            "question": "Who is “Fossil Free Research” and who is behind this letter?",
+            "answer": "The letter is endorsed by a wide range of academics, climate experts, and university members calling on US and UK universities to urgently institute a ban on fossil fuel industry funding for climate change-related research. It was drafted by student coordinators of the new Fossil Free Research campaign, who are also organizers with Cambridge Climate Justice and Fossil Fuel Divest Harvard, in collaboration with leading academics and experts focused on climate change issues."
+        },
+        {
+            "question": "Why does the letter only address the leadership of US and UK universities?",
+            "answer": "We want to see higher education institutions worldwide adopt this ban. We’re starting with US and UK universities because, as some of the most well-resourced and prestigious higher education institutions in the world, in two of the countries most responsible for historic global emissions, they have a responsibility to be the first movers in this effort. So many universities in these countries have also already committed to fossil fuel divestment or climate action, making their extensive ongoing research ties with the fossil fuel industry all the more indefensible. Enacting a fossil fuel funding ban for climate change, environmental, and energy policy-related research is an intuitive and urgently needed next step for these universities to become true climate leaders."
+        },
+        {
+            "question": "What does the proposed ban include?",
+            "answer": "As with divestment, it is clear that this is a policy that will be applied differently in different contexts, and so institutions may want to formulate the ban in slightly different ways. However, at a minimum, such a ban must include the Carbon Underground 200, a list of the world’s top 100 coal and top 100 oil and gas publicly traded companies and their subsidiaries. It must also include funding from any company engaged in building new fossil fuel infrastructure or exploring for new reserves, as this blatantly ignores the International Energy Agency’s finding that investment in new fossil fuel supply projects must cease immediately if the world is to limit planetary heating to 1.5 degrees Celsius and avoid runaway climate breakdown."
+        },
+        {
+            "question": "Why do we need a ban on fossil fuel-funded climate change-related research at universities?",
+            "answer": "Accepting funding for research meant to address the climate crisis from the industry most responsible for causing and perpetuating the climate emergency severely undermines the academic integrity and public credibility of crucial climate-related research.<br><br>Reliance on fossil fuel industry funding for climate change-related research creates an unacceptable conflict of interest between the core business interests of the research funder and the purpose of the research itself. There is clear evidence to suggest that this skews the shape and outcomes of research in directions favorable to the fossil fuel industry. As such, this funding unacceptably infringes on researchers’ academic freedom, constraining their ability to conduct truly free, independent research and speak out against the fossil fuel industry’s record of environmental destruction.<br><br>Publicly partnering with the fossil fuel companies responsible for driving the climate emergency fundamentally undermines universities’ stated commitments to tackling the climate crisis. For many universities, these commitments include pledges to divest their endowments from these very same companies on the basis that their business models are fundamentally incompatible with efforts to preserve a safe and liveable future.<br><br>Public research partnerships between globally respected universities and fossil fuel companies play a key role in greenwashing these companies’ reputations. This helps to bolster the industry’s false claims that it is at the forefront of the green transition when it continues to invest the vast majority of its capital into fossil fuel exploration and extraction, in clear defiance of the scientific evidence. Indeed, the industry invests only a tiny fraction of its overall budget into renewable energy and low-carbon solutions, with many of these alleged solutions failing to meaningfully help curb emissions. By accepting fossil fuel companies as legitimate partners for sustainability research, universities signal to the world that these companies are actually committed to science-led climate action and deserve a seat at the table in deciding the future of our planet.<br><br>Finally, universities that maintain close ties to the fossil fuel industry incur a substantial reputational risk through this clear violation of their core social and academic principles. This undermines public faith in academic institutions to speak authoritatively on this most pressing crisis at a time when the contributions of independent scientists are needed more than ever."
+        },
+        {
+            "question": "Who supports this ban?",
+            "answer": "This ban is supported by hundreds of leading academics, university affiliates, and experts from a broad range of disciplines in addition to climate, environmental, and energy sciences, economics, and policy. This list includes lead IPCC assessment authors, a Nobel Peace Prize recipient, the former President of Ireland, world-renowned economists, the former Archbishop of Canterbury, and university chancellors. This letter is also supported by numerous university fossil fuel divestment campaigns including Cambridge Climate Justice, Fossil Fuel Divest Harvard, and Sunrise GW."
+        },
+        {
+            "question": "What about alternative research funding? Where will the money for this research come from if not from fossil fuel companies?",
+            "answer": "It is imperative that rich US and UK universities and governments lead the way in ensuring that critical climate change-related research receives the funding it requires. Many universities have large, well-established fundraising departments which have demonstrated a capacity to raise phenomenal sums. Indeed, philanthropic giving to US universities rose by 6.9% in 2021 alone, topping $52 billion dollars. Additionally, it is the duty of governments to step in to provide funding so clearly in the public good when and where it is needed.<br><br>Moreover, it is not clear how much funding for climate change-related research comes from the fossil fuel industry to US and UK universities for climate change-related research. That’s because of a strong lack of transparency and disclosure on these universities’ behalf, which raises serious doubts about these universities’ commitments to being responsible climate actors.<br><br>As we have already detailed, serious issues arise with any amount of fossil fuel industry funding for climate change-related research. By its very nature, such funding incurs the unjustifiably problematic risk of university climate change-related research being skewed in the direction of fossil fuel companies’ interests as well as being used to support their greenwashing and continued efforts to delay and control the direction of climate action, which has deadly consequences for our community and our planet. It must therefore be an urgent priority for governments and universities to pursue alternative funding pathways to ensure critical climate-related research can be conducted untainted by the biasing, greenwashing effects of fossil fuel industry funding."
+        },
+        {
+            "question": "Can’t fossil fuel industry funding end up funding good or important climate research at universities, even if the source is undesirable?",
+            "answer": "There is clear evidence to suggest that accepting fossil fuel industry funding for any climate change, environmental, and energy policy research creates significant conflicts of interest and skews research agendas and outcomes in directions favorable to the fossil fuel industry. This severely undermines the potential positive impact of such research.<br><br>Just as importantly, accepting this funding lends much-needed scientific legitimacy to companies who continue to fight against a rapid and just renewable energy transition. Note that no major fossil fuel company has yet aligned its business model with the goals of the Paris Agreement. In this context, affiliations with prestigious university research allow these companies to continue falsely representing themselves as leaders in a green transition they are actively blocking. Even in cases where climate change-related research funded by fossil fuel companies has not been distorted by this funding source, the appearance of compromised academic integrity will be there regardless and impossible to wash away just because disclosure of funding is made."
+        },
+        {
+            "question": "What precedents exist for this ban?",
+            "answer": "There are numerous examples of institutions refusing money from certain industries on both scientific and ethical grounds. Since the late 1990s, tobacco companies have increasingly been barred from providing funding for clinical research at many public health institutions (notably including the Harvard T. H. Chan School of Public Health, Cancer Research UK, and the British Heart Foundation) due to these companies’ extensive record of spreading misinformation about the public health harms of their products. This precedent is crucial given that fossil fuel industry funding of climate-related research presents a similar conflict of interest, with fossil fuel companies employing disinformation tactics directly from the tobacco industry’s playbook.<br><br>Over the last decade, we have also seen an overwhelming trend among higher education institutions, non-profit organizations, pension funds, and other major asset managers of divesting from the fossil fuel industry preciselybecause all of them recognize the industry’s behavior and core business model as being morally reprehensible and at oddswith their core values. More recently, prestigious cultural institutions have reached a similar conclusion and begun tosever ties with the fossil fuel industry. For instance, the National Portrait Gallery recently decided to end its30-year partnership with BP over the company’s appalling environmental record, and there is a major campaign for theScience Museum to do the same."
+        },
+        {
+            "question": "Why are you making this call amid the Russian invasion in Ukraine and the ripple effects on energy supply?",
+            "answer": "The call to reject funding from fossil fuel companies for climate change-related research is particularly salient inthe wake of the latest IPCC report and the Russian war on Ukraine, which has made abundantly clear the need for vastinvestment in and development of renewable energy infrastructure for the well-being and survival of our communities andfuture generations, and global security. Meanwhile, fossil fuel companies are cashing in on soaring energy prices tosecure record profits and continue to invest tiny proportions of their overall capital budgets on renewables. As thesecompanies exploit the humanitarian crisis for their own gain and work to sustain their deadly core business model, it isobvious that we simply cannot trust these companies with the future of our planet. &nbsp;Shell’s decision to purchase atankard of Russian oil in the midst of this crisis represents yet another example of the industry’s commitment toprofit-making at the expense of all standards of basic morality and human decency."
+        }
+    ],
     "coverage": [
         {
             "link": "#",
@@ -17,7 +59,7 @@
         },
         {
             "link": "https://www.bostonglobe.com/2022/06/13/science/universities-face-mounting-pressure-stop-taking-fossil-fuel-funds/",
-            "image": "/assets/images/boston globe.png",
+            "image": "/assets/images/boston_globe.png",
             "height": "88px"
         },
         {
@@ -43,5 +85,138 @@
             "title": "Oxford (Oxford Climate Justice Campaign)",
             "link": "https://oxfordunifossilfree.files.wordpress.com/2021/08/money-people-reputation-oxfords-ties-with-the-fossil-fuel-industry-revision.pdf"
         }
-    ]
+    ],
+    "coalition": [
+        "/assets/images/coalition/cambridge.png",
+        "/assets/images/coalition/gw.png",
+        "/assets/images/coalition/harvard.png",
+        "/assets/images/coalition/princeton.jpeg",
+        "/assets/images/coalition/xryc_logo.png"
+    ],
+    "media": {
+        "featured": [
+            {
+                "title": "Voters Agree: Fossil Fuel Funding in Climate Research Presents Conflict of Interest",
+                "excerpt": "When presented with the statement “Colleges and universities studying the impacts of climate change and sustainability should refuse donations from fossil fuel companies so they can remain unbiased in their research,” 57 percent of voters agree and only 29 percent of voters disagree.",
+                "link": "https://www.dataforprogress.org/blog/2022/7/14/voters-agree-fossil-fuel-funding-in-climate-research-presents-conflict-of-interest",
+                "logo": "/assets/images/media_orgs/data_for_progress.jpg"
+            },
+            {
+                "title": "A feud over fossil fuel money",
+                "excerpt": "But the students and faculty members argue that fossil fuel companies just want to deflect attention from their role in a climate crisis that they continue to perpetuate. Accepting money from an industry with “a proven record of actively obscuring the scientific consensus on climate change,” the letter said, “presents a conflict of interest.”",
+                "link": "https://www.nytimes.com/2022/05/24/climate/fossil-fuel-divestment.html",
+                "logo": "/assets/images/media_orgs/nyt2.png"
+            },
+            {
+                "title": "Universities face mounting pressure to stop taking fossil fuel funds",
+                "excerpt": "Climate activists, emboldened by their success in pushing wealthy universities to divest their stocks from fossil fuel companies, are now looking to a new and even thornier target: the billions of dollars universities accept from those companies for climate research.",
+                "link": "https://www.bostonglobe.com/2022/06/13/science/universities-face-mounting-pressure-stop-taking-fossil-fuel-funds/",
+                "logo": "/assets/images/media_orgs/boston_globe2.png"
+            }
+        ],
+        "news": [
+            {
+                "title": " Universities must reject fossil fuel cash for climate research, say academics",
+                "link": "https://www.theguardian.com/science/2022/mar/21/universities-must-reject-fossil-fuel-cash-for-climate-research-say-academics?",
+                "logo": "/assets/images/media_orgs/the_guardian.png"
+            },
+            {
+                "title": "Cambridge University students and academics occupy BP institute demanding end to fossil fuel funding",
+                "link": "https://www.independent.co.uk/climate-change/news/cambridge-university-students-and-academics-occupy-bp-institute-b2080786.html",
+                "logo": "/assets/images/media_orgs/the_independent.png"
+            },
+            {
+                "title": "500 Researchers Ask Universities to Reject Fossil-Fuel Cash",
+                "link": "https://www.motherjones.com/politics/2022/03/500-climate-researchers-open-letter-universities-reject-fossil-fuel-funding-michael-mann-solutions/",
+                "logo": "/assets/images/media_orgs/mother_jones.png"
+            },
+            {
+                "title": "More than 500 academics call on universities to stop accepting research funding from fossil fuel industry",
+                "link": "https://thehill.com/policy/energy-environment/599206-more-than-500-academics-call-on-universities-to-stop-accepting/",
+                "logo": "/assets/images/media_orgs/the_hill.png"
+            },
+            {
+                "title": "500+ Academics Call for End to Climate Research Funded by Fossil Fuel Industry",
+                "link": "https://www.commondreams.org/news/2022/03/21/500-academics-call-end-climate-research-funded-fossil-fuel-industry",
+                "logo": "/assets/images/media_orgs/common_dreams.png"
+            },
+            {
+                "title": "Universities urged to cut research ties with fossil fuel companies",
+                "link": "https://researchprofessionalnews.com/rr-news-uk-universities-2022-3-universities-urged-to-cut-research-ties-with-fossil-fuel-companies/",
+                "logo": "/assets/images/media_orgs/research_prof.svg"
+            },
+            {
+                "title": "‘Unis must reject all fossil fuel funding’",
+                "link": "https://www.energylivenews.com/2022/03/22/unis-must-reject-all-fossil-fuel-funding/",
+                "logo": "/assets/images/media_orgs/energy_live.jpg"
+            },
+            {
+                "title": "'Fossil free research': Universities urged to cut ties with fossil fuel industry",
+                "link": "https://www.businessgreen.com/news/4046919/univer",
+                "logo": "/assets/images/media_orgs/business_green.svg"
+            },
+            {
+                "title": "War profiteering, bike helmets, and another court loss for Exxon",
+                "link": "https://exxonknews.substack.com/p/war-profiteering-bike-helmets-and?s=w",
+                "logo": "/assets/images/media_orgs/exxon_knews.webp"
+            },
+            {
+                "title": "Oxford students call on universities to cut research ties with the fossil fuel industry ",
+                "link": "https://thetab.com/uk/oxford/2022/03/24/oxford-students-call-on-universities-to-cut-research-ties-with-the-fossil-fuel-industry-29563",
+                "logo": "/assets/images/media_orgs/tab.png"
+            },
+            {
+                "title": "Harvard Affiliates Call on Universities to Bar Fossil Fuel Industry Funding from Research",
+                "link": "https://www.thecrimson.com/article/2022/4/5/cease-fossil-fuel-funding/",
+                "logo": "/assets/images/media_orgs/crimson.png"
+            },
+            {
+                "title": "BP hypocrisy on climate challenged by Cambridge sit-in",
+                "link": "https://eastangliabylines.co.uk/bp-hypocrisy-on-climate-challenged-by-cambridge-sit-in/",
+                "logo": "/assets/images/media_orgs/east_anglia.webp"
+            },
+            {
+                "title": "Call for universities to cut research ties with fossil fuel industry",
+                "link": "https://www.rte.ie/news/2022/0321/1287639-fossil-fuel-letter/",
+                "logo": "/assets/images/media_orgs/rte.png"
+            }
+        ],
+        "opeds": [
+            {
+                "title": "Op-Ed: Climate research funded by fossil fuel profits discredits universities and hurts the planet",
+                "link": "https://www.latimes.com/opinion/story/2022-04-03/climate-change-research-funding-fossil-fuels",
+                "logo": "/assets/images/media_orgs/latimes.svg"
+            },
+            {
+                "title": "Universities must wean themselves off fossil fuel funding",
+                "link": "https://www.ft.com/content/b80d9715-4204-4592-a135-067878dc589e",
+                "logo": "/assets/images/media_orgs/financial_times.jpg"
+            },
+            {
+                "title": "Climate Research Shouldn’t Be Funded by Fossil Fuel Companies",
+                "link": "https://www.thenation.com/article/environment/university-climate-research-fossil-fuels/",
+                "logo": "/assets/images/media_orgs/the_nation.png"
+            },
+            {
+                "title": "Stanford’s New School of Sustainability Is a Gift to Fossil Fuel Companies",
+                "link": "https://www.thenation.com/article/environment/stanford-sustainability-school/",
+                "logo": "/assets/images/media_orgs/the_nation.png"
+            },
+            {
+                "title": "To Be a Responsible Climate Actor, Oxbridge Must Institute Fossil Free Research",
+                "link": "https://www.ecowatch.com/students-occupy-bp-institute-cambridge-university.html",
+                "logo": "/assets/images/media_orgs/eco_watch.webp"
+            },
+            {
+                "title": "Fossil fuel research ties undermine universities’ climate change response",
+                "link": "https://www.timeshighereducation.com/blog/fossil-fuel-research-ties-undermine-universities-climate-change-response",
+                "logo": "/assets/images/media_orgs/times_higher_education.jpg"
+            },
+            {
+                "title": "The case for Fossil Free Research: what universities must do",
+                "link": "https://www.varsity.co.uk/opinion/23645",
+                "logo": "/assets/images/media_orgs/varsity.png"
+            }
+        ]
+    }
 }
