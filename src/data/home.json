@@ -1,4 +1,22 @@
 {
+    "social": [
+        {
+            "type": "fa-brands fa-facebook",
+            "link": "http://facebook.com/FossilFreeResearch"
+        },
+        {
+            "type": "fa-brands fa-twitter",
+            "link": "http://twitter.com/fosfreeresearch"
+        },
+        {
+            "type": "fa-brands fa-instagram",
+            "link": "http://instagram.com/FossilFreeResearch"
+        },
+        {
+            "type": "fa-solid fa-envelope",
+            "link": "mailto:fossilfreeresearch@gmail.com"
+        }
+    ],
     "letter": {
         "signatories": 750,
         "institutions": 130
@@ -43,29 +61,30 @@
     ],
     "coverage": [
         {
-            "link": "#",
-            "image": "/assets/images/nyt.png",
-            "height": "94px"
+            "link": "https://www.motherjones.com/politics/2022/03/500-climate-researchers-open-letter-universities-reject-fossil-fuel-funding-michael-mann-solutions/",
+            "logo": "/assets/images/media_orgs/mother_jones.png",
+            "hidden_sm": true
         },
         {
-            "link": "#",
-            "image": "/assets/images/guardian.png",
-            "height": "38px"
+            "link": "https://www.thenation.com/article/politics/oil-gas-university-greenwashing/",
+            "logo": "/assets/images/media_orgs/the_nation.png"
         },
         {
-            "link": "#",
-            "image": "/assets/images/mother jones.png",
-            "height": "78px"
+            "link": "https://www.theguardian.com/science/2022/mar/21/universities-must-reject-fossil-fuel-cash-for-climate-research-say-academics?",
+            "logo": "/assets/images/media_orgs/the_guardian.png"
+        },
+        {
+            "link": "https://www.nytimes.com/2022/08/16/climate/cambridge-university-oil-gas-funding.html?referringSource=articleShare",
+            "logo": "/assets/images/media_orgs/nyt2.png"
         },
         {
             "link": "https://www.bostonglobe.com/2022/06/13/science/universities-face-mounting-pressure-stop-taking-fossil-fuel-funds/",
-            "image": "/assets/images/boston_globe.png",
-            "height": "88px"
+            "logo": "/assets/images/media_orgs/boston_globe2.png"
         },
         {
-            "link": "#",
-            "image": "/assets/images/indp.png",
-            "height": "15px"
+            "link": "https://www.independent.co.uk/climate-change/news/cambridge-university-students-and-academics-occupy-bp-institute-b2080786.html",
+            "logo": "/assets/images/media_orgs/the_independent.png",
+            "hidden_sm": true
         }
     ],
     "reports": [
@@ -87,14 +106,38 @@
         }
     ],
     "coalition": [
-        "/assets/images/coalition/cambridge.png",
-        "/assets/images/coalition/gw.png",
+        "/assets/images/coalition/Dores Divest.png",
+        "/assets/images/coalition/Umn logo.JPG",
+        "/assets/images/coalition/divestedlogo.png",
         "/assets/images/coalition/harvard.png",
+        "/assets/images/coalition/xryc_logo.png",
+        "/assets/images/coalition/GNDUC.jpg",
+        "/assets/images/coalition/cambridge.png",
+        "/assets/images/coalition/ff5logo.jpeg",
         "/assets/images/coalition/princeton.jpeg",
-        "/assets/images/coalition/xryc_logo.png"
+        "/assets/images/coalition/S4F logo white.png",
+        "/assets/images/coalition/ccclogo.png",
+        "/assets/images/coalition/gnd ucsd logo transparent.png",
+        "/assets/images/coalition/tuftscalogo.jpg",
+        "/assets/images/coalition/Sakilogo.PNG",
+        "/assets/images/coalition/dataforprogresslogo.png",
+        "/assets/images/coalition/gw.png",
+        "/assets/images/coalition/vandylogo.jpeg"
     ],
     "media": {
         "featured": [
+            {
+                "title": "Why Are Fossil Fuel Companies Funding Climate Change Research?",
+                "excerpt": "As oil and gas companies report record profits, the Fossil Free Research campaign calls on universities to refuse their donations and maintain independence.",
+                "link": "https://www.thenation.com/article/politics/oil-gas-university-greenwashing/",
+                "logo": "/assets/images/media_orgs/the_nation.png"
+            },
+            {
+                "title": "Fox in the Henhouse: Getting Oily Hands Off Climate Research",
+                "excerpt": "Students and faculty are shining a light on fossil fuel infiltration of academia and organizing to ban fossil fuel dollars from climate and energy research.",
+                "link": "https://open.spotify.com/episode/380ggq1QeiHQbXJgehWF0x?si=nBnNEqjAQ5OjZehtrLYhIw&nd=1",
+                "logo": "/assets/images/media_orgs/coolsolutions.png"
+            },
             {
                 "title": "Voters Agree: Fossil Fuel Funding in Climate Research Presents Conflict of Interest",
                 "excerpt": "When presented with the statement “Colleges and universities studying the impacts of climate change and sustainability should refuse donations from fossil fuel companies so they can remain unbiased in their research,” 57 percent of voters agree and only 29 percent of voters disagree.",
@@ -102,21 +145,27 @@
                 "logo": "/assets/images/media_orgs/data_for_progress.jpg"
             },
             {
+                "title": "Universities face mounting pressure to stop taking fossil fuel funds",
+                "excerpt": "Climate activists, emboldened by their success in pushing wealthy universities to divest their stocks from fossil fuel companies, are now looking to a new and even thornier target: the billions of dollars universities accept from those companies for climate research.",
+                "link": "https://www.bostonglobe.com/2022/06/13/science/universities-face-mounting-pressure-stop-taking-fossil-fuel-funds/",
+                "logo": "/assets/images/media_orgs/boston_globe2.png"
+            },
+            {
+                "title": "Kicking oil companies out of school",
+                "excerpt": "Faculty and staff at Cambridge are planning a vote that would require the university to stop accepting fossil fuel money for research. It’s part of an expanding movement.",
+                "link": "https://www.nytimes.com/2022/08/16/climate/cambridge-university-oil-gas-funding.html?referringSource=articleShare",
+                "logo": "/assets/images/media_orgs/nyt2.png"
+            }
+        ],
+        "news": [
+            {
                 "title": "A feud over fossil fuel money",
                 "excerpt": "But the students and faculty members argue that fossil fuel companies just want to deflect attention from their role in a climate crisis that they continue to perpetuate. Accepting money from an industry with “a proven record of actively obscuring the scientific consensus on climate change,” the letter said, “presents a conflict of interest.”",
                 "link": "https://www.nytimes.com/2022/05/24/climate/fossil-fuel-divestment.html",
                 "logo": "/assets/images/media_orgs/nyt2.png"
             },
             {
-                "title": "Universities face mounting pressure to stop taking fossil fuel funds",
-                "excerpt": "Climate activists, emboldened by their success in pushing wealthy universities to divest their stocks from fossil fuel companies, are now looking to a new and even thornier target: the billions of dollars universities accept from those companies for climate research.",
-                "link": "https://www.bostonglobe.com/2022/06/13/science/universities-face-mounting-pressure-stop-taking-fossil-fuel-funds/",
-                "logo": "/assets/images/media_orgs/boston_globe2.png"
-            }
-        ],
-        "news": [
-            {
-                "title": " Universities must reject fossil fuel cash for climate research, say academics",
+                "title": "Universities must reject fossil fuel cash for climate research, say academics",
                 "link": "https://www.theguardian.com/science/2022/mar/21/universities-must-reject-fossil-fuel-cash-for-climate-research-say-academics?",
                 "logo": "/assets/images/media_orgs/the_guardian.png"
             },

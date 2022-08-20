@@ -4,7 +4,7 @@ layout: base
 
 <div class="container-fluid d-flex align-items-center justify-content-center hero hero__large">
   <div class="col-md-6 d-flex flex-column align-items-center">
-    <h1>No more fossil fuel money</h1>
+    <h1>No more fossil fuel research money</h1>
     <a href="/take-action/">
       <button type="button" class="btn btn-primary">
         Take Action
@@ -25,10 +25,18 @@ layout: base
       <p class="text-align-center">
         Our campaign has received coverage from:
       </p>
+    </div>
+    <div class="offset-md-1 col-md-10 offset-xl-2 col-xl-8">
       <div id="who-we-are__coverage">
-        <a href="/coverage">
-          <img src="/assets/images/coverage.png">
-        </a>
+        <div class="row">
+          {% for article in home.coverage %}
+          <div class="col-3 col-md-2 {% if article.hidden_sm %}d-none d-md-block{% endif %}">
+            <a href="{{article.link}}" target="_blank">
+              <img src="{{article.logo}}" height="auto" width="100%">
+            </a>
+          </div>
+          {% endfor %}
+        </div>
       </div>
     </div>
   </div>
@@ -42,8 +50,7 @@ layout: base
         <div class="col-lg-6">
           {% include "letterstats.njk" %}
           <p class="description">
-            We are calling on U.K. and U.S. universities to institute a ban on accepting fossil fuel industry funding for climate
-            change, environmental, and energy policy research.
+            We are calling on U.K. and U.S. universities to lead the way in instituting a ban on accepting fossil fuel industry funding for climate change, environmental, and energy policy research.
           </p>
           <a href="/letter">
             <button type="button" class="btn btn-primary">

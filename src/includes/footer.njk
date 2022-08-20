@@ -2,7 +2,7 @@
     <div class="container">
         <div class="offset-md-1 col-md-10 offset-lg-2 col-lg-8">
             <div class="row">
-                <div class="col-md-6 d-flex flex-column justify-content-center">
+                <div class="col-md-6 d-flex flex-column justify-content-center footer__contact-us">
                     <h2>Contact Us</h2>
                     <p>For any press and general inquiries, please contact us at
                         <a href="mailto:fossilfreeresearch@gmail.com">fossilfreeresearch@gmail.com</a>. To stay updated on our efforts, follow
@@ -10,6 +10,13 @@
                         on Twitter.
                     </p>
                     <p>Photo Credit: Terry Macalister</p>
+                    <div class="footer__social-icons">
+                        {% for social in home.social %}
+                            <a href="{{social.link}}" target="_blank">
+                                <span class="{{social.type}}"></span>
+                            </a>
+                        {% endfor %}
+                    </div>
                 </div>
                 <div class="col-md-6">
                     {% include "twitterfeed.njk" %}
