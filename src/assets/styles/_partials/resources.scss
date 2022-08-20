@@ -28,17 +28,11 @@
     padding: $SCALE-2 $SCALE-3 $SCALE-3;
     margin-bottom: $SCALE-2;
     img {
-        margin: $SCALE-1 0 $SCALE-2;
-        width: 100%;
-        @media (min-width: $md) {
-            width: 70%;
-            margin-left: auto;
-            margin-right: auto;
-            display: block
+        margin: $SCALE-1 auto $SCALE-2;
+        @media (max-width: $lg) {
+            width: 50%;
         }
-        @media (min-width: $lg) {
-            width: 100%;
-        }
+        display: block;
     }
 
     h4 {
