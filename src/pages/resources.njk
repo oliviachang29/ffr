@@ -25,52 +25,59 @@ eleventyNavigation:
             {% set sectionTitle = "Resources" %}
             {% include "title.njk" %}
             <div class="resources__embed">
-                <h3>“Fossil Free Research 101” Slideshow</h3>
+                <h3>Fossil Free Research Teach In</h3>
                 <iframe
-                    src="https://docs.google.com/presentation/d/e/2PACX-1vQzerKUrro5EqQHjIDR2PypXNVInax3PCPtUL6l8JqCyb2zBFJ96GhkXlhGFlHibMPoqThTbzzw-H33/embed?start=false&loop=false&delayms=3000"
-                    frameborder="0"
-                    width="100%"
-                    height="500"
-                    allowfullscreen="true"
-                    mozallowfullscreen="true"
-                    webkitallowfullscreen="true"></iframe>
-            </div>
-            <div class="resources__embed">
-                <h3>“Uncovering Funding at Your University” Video & Slides</h3>
-                <p>
-                    <a href="https://vimeo.com/733244434">Research &amp; FOIA Training</a>
-                    from
-                    <a href="https://vimeo.com/user181249044">Avital Nathman</a>
-                    on
-                    <a href="https://vimeo.com">Vimeo</a>.</p>
-                <iframe
-                    src="https://player.vimeo.com/video/733244434?h=df8688f84a"
+                    src="https://drive.google.com/file/d/1lag4PPsHhIox_aHm5kLXKal9Ok0yReJt/preview"
                     width="100%"
                     height="400"
-                    frameborder="0"
-                    allow="autoplay; fullscreen; picture-in-picture"
-                    allowfullscreen></iframe>
-                <p>
-                    <a href="https://drive.google.com/file/d/1lFfdW7rRlx3ljf3YjDE5n-1JxBTGvAWg/view?usp=sharing">Slides from this
-                        presentation here</a>
-                </p>
-            </div>
+                    allow="autoplay"></iframe>
+                <a href="https://drive.google.com/file/d/1hO-ms3WjgUoeH_SbkGVdhfe8CSn0IOG9/view?usp=drive_open">Watch the teach-in here</a>
+            </p>
+        </div>
+        <div class="resources__embed">
+            <h3>“Fossil Free Research 101” Slideshow</h3>
+            <iframe
+                src="https://docs.google.com/presentation/d/e/2PACX-1vQzerKUrro5EqQHjIDR2PypXNVInax3PCPtUL6l8JqCyb2zBFJ96GhkXlhGFlHibMPoqThTbzzw-H33/embed?start=false&loop=false&delayms=3000"
+                frameborder="0"
+                width="100%"
+                height="500"
+                allowfullscreen="true"
+                mozallowfullscreen="true"
+                webkitallowfullscreen="true"></iframe>
+        </div>
+        <div class="resources__embed">
+            <h3>“Uncovering Funding at Your University” Video & Slides</h3>
+            <p>
+                <a href="https://vimeo.com/733244434">Research &amp; FOIA Training</a>
+                from
+                <a href="https://vimeo.com/user181249044">Avital Nathman</a>
+                on
+                <a href="https://vimeo.com">Vimeo</a>.</p>
+            <iframe
+                src="https://player.vimeo.com/video/733244434?h=df8688f84a"
+                width="100%"
+                height="400"
+                frameborder="0"
+                allow="autoplay; fullscreen; picture-in-picture"
+                allowfullscreen></iframe>
+            <p>
+                <a href="https://drive.google.com/file/d/1lFfdW7rRlx3ljf3YjDE5n-1JxBTGvAWg/view?usp=sharing">Slides from this
+                    presentation here</a>
+            </p>
         </div>
     </div>
-</section>
-<section class="section-white-background">
-    <div class="container">
-        <div class="offset-md-1 col-md-10 offset-lg-2 col-lg-8 offset-xl-3 col-xl-6">
-            {% set sectionTitle = "Reports" %}
-            {% include "title.njk" %}
-            <p>Student reports on fossil fuel ties:</p>
-            <ul>
-                {% for report in home.reports %}
-                    <li class="bullet-point">
-                        <a href="{{ report.link }}">{{ report.title }}</a>
-                    </li>
-                {% endfor %}
-            </ul>
-        </div>
+</div></section><section class="section-white-background">
+<div class="container">
+    <div class="offset-md-1 col-md-10 offset-lg-2 col-lg-8 offset-xl-3 col-xl-6">
+        {% set sectionTitle = "Reports" %}
+        {% include "title.njk" %}
+        <p>Student reports on fossil fuel ties:</p>
+        <ul>
+            {% for report in home.reports %}
+                <li class="bullet-point">
+                    <a href="{{ report.link }}">{{ report.title }}</a>
+                </li>
+            {% endfor %}
+        </ul>
     </div>
-</section>
+</div></section>

@@ -52,6 +52,7 @@ module.exports = function (config) {
     config.addPassthroughCopy('src/robots.txt')
     config.addPassthroughCopy('src/site.webmanifest')
     config.addPassthroughCopy('src/assets/images')
+    config.addPassthroughCopy('src/assets/docs')
     config.addPassthroughCopy('src/assets/fonts')
 
     // Deep-Merge

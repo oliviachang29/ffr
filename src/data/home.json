@@ -122,22 +122,29 @@
         "/assets/images/coalition/Sakilogo.PNG",
         "/assets/images/coalition/dataforprogresslogo.png",
         "/assets/images/coalition/gw.png",
-        "/assets/images/coalition/vandylogo.jpeg"
+        "/assets/images/coalition/vandylogo.jpeg",
+        "/assets/images/coalition/Fridays for Future Digital logo.png"
     ],
     "media": {
+        "press_releases": [
+            {
+                "title": "Princeton University Dissociation & Divestment",
+                "excerpt": "On Thursday, September 29th, Princeton University announced a commitment to divest and dissociate from 90 oil and gas companies, severing both endowment ties and research partnerships with parts of the fossil fuel industry.",
+                "link": "/assets/docs/Princeton_Dissociation.pdf"
+            }
+        ],
         "featured": [
             {
-                "title": "Why Are Fossil Fuel Companies Funding Climate Change Research?",
-                "excerpt": "As oil and gas companies report record profits, the Fossil Free Research campaign calls on universities to refuse their donations and maintain independence.",
-                "link": "https://www.thenation.com/article/politics/oil-gas-university-greenwashing/",
+                "title": "Princeton Activists Just Won a Historic Victory for Climate Research",
+                "excerpt": "After a decade of student organizing, Princeton made a pledge to divest its endowment and reject fossil fuel money.",
+                "link": "https://www.thenation.com/article/environment/princeton-fossil-fuel-divestment-climate-change/",
                 "logo": "/assets/images/media_orgs/the_nation.png"
             },
             {
-                "title": "Fox in the Henhouse: Getting Oily Hands Off Climate Research",
-                "excerpt": "Students and faculty are shining a light on fossil fuel infiltration of academia and organizing to ban fossil fuel dollars from climate and energy research.",
-                "link": "https://open.spotify.com/episode/380ggq1QeiHQbXJgehWF0x?si=nBnNEqjAQ5OjZehtrLYhIw&nd=1",
-                "logo": "/assets/images/media_orgs/coolsolutions.png",
-                "width": "50%"
+                "title": "Kicking oil companies out of school",
+                "excerpt": "Faculty and staff at Cambridge are planning a vote that would require the university to stop accepting fossil fuel money for research. It’s part of an expanding movement.",
+                "link": "https://www.nytimes.com/2022/08/16/climate/cambridge-university-oil-gas-funding.html?referringSource=articleShare",
+                "logo": "/assets/images/media_orgs/nyt2.png"
             },
             {
                 "title": "Voters Agree: Fossil Fuel Funding in Climate Research Presents Conflict of Interest",
@@ -152,13 +159,26 @@
                 "logo": "/assets/images/media_orgs/boston_globe2.png"
             },
             {
-                "title": "Kicking oil companies out of school",
-                "excerpt": "Faculty and staff at Cambridge are planning a vote that would require the university to stop accepting fossil fuel money for research. It’s part of an expanding movement.",
-                "link": "https://www.nytimes.com/2022/08/16/climate/cambridge-university-oil-gas-funding.html?referringSource=articleShare",
-                "logo": "/assets/images/media_orgs/nyt2.png"
+                "title": "Why Are Fossil Fuel Companies Funding Climate Change Research?",
+                "excerpt": "As oil and gas companies report record profits, the Fossil Free Research campaign calls on universities to refuse their donations and maintain independence.",
+                "link": "https://www.thenation.com/article/politics/oil-gas-university-greenwashing/",
+                "logo": "/assets/images/media_orgs/the_nation.png"
+            },
+            {
+                "title": "Fox in the Henhouse: Getting Oily Hands Off Climate Research",
+                "excerpt": "Students and faculty are shining a light on fossil fuel infiltration of academia and organizing to ban fossil fuel dollars from climate and energy research.",
+                "link": "https://open.spotify.com/episode/380ggq1QeiHQbXJgehWF0x?si=nBnNEqjAQ5OjZehtrLYhIw&nd=1",
+                "logo": "/assets/images/media_orgs/coolsolutions.png",
+                "width": "50%"
             }
         ],
         "news": [
+            {
+                "title": "The Fossil Free Research movement is taking universities by storm",
+                "excerpt": "A student-led effort to get fossil fuel money out of university research is building on the divestment movement’s biggest successes. ",
+                "link": "https://wagingnonviolence.org/2022/10/the-fossil-free-research-movement-is-taking-universities-by-storm/",
+                "logo": "/assets/images/media_orgs/waging_nonviolence.png"
+            },
             {
                 "title": "A feud over fossil fuel money",
                 "excerpt": "But the students and faculty members argue that fossil fuel companies just want to deflect attention from their role in a climate crisis that they continue to perpetuate. Accepting money from an industry with “a proven record of actively obscuring the scientific consensus on climate change,” the letter said, “presents a conflict of interest.”",
