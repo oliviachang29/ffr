@@ -1,0 +1,36 @@
+---
+title: About
+layout: base
+permalink: /About/
+eleventyNavigation:
+  key: About
+  order: 6
+---
+
+<div
+    class="container-fluid d-flex justify-content-center align-items-center hero hero__small"
+    style="background-image: url('/assets/images/hero_images/1.png')">
+    <h1 class="text-align-center">About</h1>
+</div>
+<section class="section-gray-background">
+    <div class="container">
+        {% set sectionTitle = "Board" %}
+        {% include "title.njk" %}
+        <div class="row equal">
+            {% for person in home.about.members %}
+                <div class="col-lg-6 col-bio">
+                    <div class="bio-container">
+                        <div class="bio-image-container">
+                            <img class="bio-image" src="{{person.picture}}">
+                        </div>
+                        <div class="bio-content">
+                            <h3 class="bio-title">{{person.name}}</h3>
+                            <p class="bio-position">{{person.position}}</p>
+                            <p class="bio-text readmore">{{person.bio}}</p>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>

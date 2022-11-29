@@ -18,7 +18,7 @@
         }
     ],
     "letter": {
-        "signatories": 750,
+        "signatories": 800,
         "institutions": 130
     },
     "faqs": [
@@ -123,7 +123,9 @@
         "/assets/images/coalition/dataforprogresslogo.png",
         "/assets/images/coalition/gw.png",
         "/assets/images/coalition/vandylogo.jpeg",
-        "/assets/images/coalition/Fridays for Future Digital logo.png"
+        "/assets/images/coalition/Fridays for Future Digital logo.png",
+        "/assets/images/coalition/sunrise_gw.jpg",
+        "/assets/images/coalition/stanford.png"
     ],
     "media": {
         "press_releases": [
@@ -177,7 +179,7 @@
                 "title": "The Fossil Free Research movement is taking universities by storm",
                 "excerpt": "A student-led effort to get fossil fuel money out of university research is building on the divestment movement’s biggest successes. ",
                 "link": "https://wagingnonviolence.org/2022/10/the-fossil-free-research-movement-is-taking-universities-by-storm/",
-                "logo": "/assets/images/media_orgs/waging_nonviolence.png"
+                "logo": "/assets/images/media_orgs/wagingnonviolence.png"
             },
             {
                 "title": "A feud over fossil fuel money",
@@ -273,6 +275,11 @@
                 "logo": "/assets/images/media_orgs/the_nation.png"
             },
             {
+                "title": "To Confront the Climate Crisis, Universities Must Refuse Fossil Fuel Industry Funding",
+                "link": "https://www.commondreams.org/views/2022/09/27/confront-climate-crisis-universities-must-refuse-fossil-fuel-industry-funding",
+                "logo": "/assets/images/media_orgs/common_dreams.png"
+            },
+            {
                 "title": "To Be a Responsible Climate Actor, Oxbridge Must Institute Fossil Free Research",
                 "link": "https://www.ecowatch.com/students-occupy-bp-institute-cambridge-university.html",
                 "logo": "/assets/images/media_orgs/eco_watch.webp"
@@ -286,6 +293,64 @@
                 "title": "The case for Fossil Free Research: what universities must do",
                 "link": "https://www.varsity.co.uk/opinion/23645",
                 "logo": "/assets/images/media_orgs/varsity.png"
+            }
+        ]
+    },
+    "about": {
+        "members": [
+            {
+                "name": "Ilana Cohen",
+                "picture": "/assets/images/member_pictures/ilana.jpg",
+                "position": "Board Chair",
+                "bio": "Ilana Cohen is a co-founder of Fossil Free Research and lead organizer of Fossil Fuel Divest Harvard, as well as a freelance climate journalist and contributor to The Nation. As a senior and Edmond J. Safra Center for Ethics Undergraduate Fellow at Harvard University, Ilana studies Social Studies and Philosophy with a focus on the ethics of climate change. She is also an Advisory Board member of the Climate Protection and Restoration Initiative and is originally from Brooklyn, New York."
+            },
+            {
+                "name": "Jake Lowe (he/him)",
+                "picture": "/assets/images/member_pictures/jake.jpg",
+                "position": "Co-Executive Director",
+                "bio": "Born and raised in Frisco, Colorado, Jake is a senior at George Washington University studying Geography and International Affairs. He is a co-founder of Fossil Free Research and an organizer with the Sunrise GW no fossil fuel money campaign. Jake was previously a researcher and student organizer with UnKoch My Campus."
+            },
+            {
+                "name": "Chelsey Gilchrist",
+                "picture": "/assets/images/member_pictures/chelsey.jpg",
+                "position": "Board",
+                "bio": "Chelsey Gilchrist is native Ohioan and a second-year at The Ohio State University, where she studies Economics and Statistics. In addition to her work with Fossil Free Research, Chelsey organizes with the campus divestment campaign."
+            },
+            {
+                "name": "Jeremy Liskar",
+                "picture": "/assets/images/member_pictures/jeremy.jpg",
+                "position": "Board",
+                "bio": "Jeremy Liskar (he/him) is from Chicago and is completing his masters degree in public administration at The George Washington University. As an undergraduate student, he co-founded Sunrise GW, led its successful fossil fuel divestment campaign, and launched one of the first fossil free research campaigns in the country. He currently works at The Climate Reality Project as Legislative Coordinator, helping lead legislative, regulatory, and implementation advocacy efforts at both the federal and state level."
+            },
+            {
+                "name": "Daniel Barszczak",
+                "picture": "/assets/images/member_pictures/daniel.jpg",
+                "position": "Board",
+                "bio": "Daniel studies Mechanical Engineering and Computer Science at Tufts University and—alongside Fossil Free Research—organizes with Tufts Climate Action. He is originally from the Bay Area. In his free time, Daniel loves to bike and explore nature!"
+            },
+            {
+                "name": "Sam Gee",
+                "picture": "/assets/images/member_pictures/sam.png",
+                "position": "Board",
+                "bio": "Sam Gee is a second-year undergraduate Natural Sciences student at the University of Cambridge, UK. Having campaigned throughout his teens with both Friends of the Earth and as part of the global school strike movement, Sam is now an organizer with Cambridge Climate Justice. For Sam, Fossil Free Research is a crucial next step from divestment in ending educational institutions’ complicity in an industry that has shown itself time and again to be an opponent of science, and whose very business model is destroying the lives of marginalized communities around the world. As a science student, Sam stresses that climate and environmental research is simply too important to risk allowing the distorting influence of fossil fuel money."
+            },
+            {
+                "name": "Olivia Chang",
+                "picture": "/assets/images/member_pictures/olivia.jpg",
+                "position": "Web Developer",
+                "bio": "Olivia is studying engineering with a concentration in design at Olin College. She founded Olin Climate Justice, Olin’s fossil fuel divestment group, and organizes with the Public Interest Technology club on campus! She is originally from the Bay Area and enjoys hiking, camping, and conservation work."
+            },
+            {
+                "name": "Keigan McCullagh",
+                "picture": "/assets/images/member_pictures/keigan.jpg",
+                "position": "Social Media Coordinator",
+                "bio": "Keigan McCullagh (they/them) is a sophomore from Las Vegas, NV studying political communication at the George Washington University. They are the Communications Director for Sunrise GW and have helped lead its No Fossil Fuel Money campaign for the past year. For Fossil Free Research, they are happy to be helping grow the movement through social media!"
+            },
+            {
+                "name": "Navraj Singh Ghaleigh",
+                "picture": "/assets/images/member_pictures/navraj.jpg",
+                "position": "Advisory Board Member",
+                "bio": "Hi! I'm a law professor at Edinburgh Law School where I have worked on climate law for 15 years or so. Working with CSOs, practitioners, governments and others 'in the field' is a big part of my life, and I look forward to advancing FFR's goals with you all. Find me here: https://www.research.ed.ac.uk/en/persons/navraj-singh-ghaleigh"
             }
         ]
     }

@@ -21,10 +21,11 @@
     margin-bottom: $SCALE-1;
 }
 
-.coverage__card {
+.card {
     background-color: white;
     padding: $SCALE-1 $SCALE-2 $SCALE-2;
     margin-bottom: $SCALE-1;
+    border: none;
     img {
         margin: $SCALE-1 0;
         padding: $SCALE-1;
@@ -32,6 +33,9 @@
     p {
         text-decoration: underline white;
     }
+}
+
+.coverage__card {
     &:hover {
         background-color: $orange;
         p {
@@ -116,4 +120,73 @@
         font-family: $FONT_HEADINGS;
         font-size: 3rem;
     }
+}
+
+
+/*==================*/
+/*----  ABOUT  ----*/
+/*==================*/
+
+.about__card {
+    // text-align: center;
+    img {
+        border-radius: 1000%;
+        margin: 0 auto;
+    }
+
+}
+
+.about__position {
+    font-weight: bold;
+}
+
+$bio-container-padding: 30px;
+
+.col-bio {
+	margin-bottom: 30px;
+}
+
+.bio-container {
+	@include smooth-transition;
+	height: 100%;
+	padding: $bio-container-padding;
+	background-color: white;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	@media (min-width: $md) {
+		flex-direction: row;
+		text-align: left;
+	}
+}
+
+.bio-image-container {
+	object-fit: cover;
+	margin: 0 auto 20px;
+	@media (min-width: $md) {
+		width: auto;
+		margin-right: $bio-container-padding;
+	}
+}
+
+.bio-image {
+	border-radius: 1000px;
+	width: 75px;
+	height: 75px;
+}
+
+.bio-content {
+	width: 100%;
+}
+
+.bio-title {
+
+}
+
+.bio-position {
+	font-weight: bold;
+}
+
+.bio-text {
+
 }
