@@ -305,7 +305,7 @@
                 "bio": "Ilana Cohen is a co-founder of Fossil Free Research and lead organizer of Fossil Fuel Divest Harvard, as well as a freelance climate journalist and contributor to The Nation. As a senior and Edmond J. Safra Center for Ethics Undergraduate Fellow at Harvard University, Ilana studies Social Studies and Philosophy with a focus on the ethics of climate change. She is also an Advisory Board member of the Climate Protection and Restoration Initiative and is originally from Brooklyn, New York."
             },
             {
-                "name": "Jake Lowe (he/him)",
+                "name": "Jake Lowe",
                 "picture": "/assets/images/member_pictures/jake.jpg",
                 "position": "Co-Executive Director",
                 "bio": "Born and raised in Frisco, Colorado, Jake is a senior at George Washington University studying Geography and International Affairs. He is a co-founder of Fossil Free Research and an organizer with the Sunrise GW no fossil fuel money campaign. Jake was previously a researcher and student organizer with UnKoch My Campus."
@@ -332,7 +332,7 @@
                 "name": "Sam Gee",
                 "picture": "/assets/images/member_pictures/sam.png",
                 "position": "Board",
-                "bio": "Sam Gee is a second-year undergraduate Natural Sciences student at the University of Cambridge, UK. Having campaigned throughout his teens with both Friends of the Earth and as part of the global school strike movement, Sam is now an organizer with Cambridge Climate Justice. For Sam, Fossil Free Research is a crucial next step from divestment in ending educational institutions’ complicity in an industry that has shown itself time and again to be an opponent of science, and whose very business model is destroying the lives of marginalized communities around the world. As a science student, Sam stresses that climate and environmental research is simply too important to risk allowing the distorting influence of fossil fuel money."
+                "bio": "Sam Gee is from London and is a second-year undergraduate Natural Sciences student at the University of Cambridge, UK. Having campaigned throughout his teens both with Friends of the Earth and as part of the global school strike movement, Sam is now an organizer with Cambridge Climate Justice, alongside his work with Fossil Free Research, which he has been involved with since its inception."
             },
             {
                 "name": "Olivia Chang",
@@ -345,12 +345,38 @@
                 "picture": "/assets/images/member_pictures/keigan.jpg",
                 "position": "Social Media Coordinator",
                 "bio": "Keigan McCullagh (they/them) is a sophomore from Las Vegas, NV studying political communication at the George Washington University. They are the Communications Director for Sunrise GW and have helped lead its No Fossil Fuel Money campaign for the past year. For Fossil Free Research, they are happy to be helping grow the movement through social media!"
-            },
+            }
+        ],
+        "adv_board_members": [
             {
                 "name": "Navraj Singh Ghaleigh",
                 "picture": "/assets/images/member_pictures/navraj.jpg",
                 "position": "Advisory Board Member",
-                "bio": "Hi! I'm a law professor at Edinburgh Law School where I have worked on climate law for 15 years or so. Working with CSOs, practitioners, governments and others 'in the field' is a big part of my life, and I look forward to advancing FFR's goals with you all. Find me here: https://www.research.ed.ac.uk/en/persons/navraj-singh-ghaleigh"
+                "bio": "Navraj Singh Ghaleigh (he/him) is a law professor at Edinburgh Law School where he has worked on climate law for 15 years. Working with CSOs, practitioners, governments and others 'in the field' is a big part of his life, and he is excited to be a part of advancing FFR's goals. "
+            },
+            {
+                "name": "Akaraseth Puranasamriddhi",
+                "picture": "/assets/images/member_pictures/akaraseth.jpg",
+                "position": "Advisory Board Member",
+                "bio": "Akaraseth (he/him) is a DPhil student at the University of Oxford focusing on climate risks and sustainable finance. He is also a research affiliate at the University of Cambridge and University College London in sustainable finance and energy access, respectively. Alongside his research, Akaraseth is a trustee at Engineers Without Borders UK and a member of the United Nations Development Programme (UNDP), Environment Programme (UNEP), and Human Rights (UN OHCHR) Youth Advisory Group on Climate Justice in the Asia-Pacific. "
+            },
+            {
+                "name": "Geoffrey Supran",
+                "picture": "/assets/images/member_pictures/geoffrey.jpg",
+                "position": "Advisory Board Member",
+                "bio": "Geoffrey (he/him) grew up in the UK and is an Associate Professor in the Department of Environmental Science and Policy at the University of Miami’s Rosenstiel School of Marine, Atmospheric, and Earth Science. His research focuses on the history of climate disinformation and propaganda by fossil fuel interests. He has been investigating – and campaigning against – Big Oil’s corporate capture of academia since 2015. He is proud to support Fossil Free Research in defense of universities’ unique capacity to confront the climate crisis, which is being undermined by the exploitation of scientists as pawns of Big Oil propaganda."
+            },
+            {
+                "name": "Tina Shull",
+                "picture": "/assets/images/member_pictures/tina.jpg",
+                "position": "Advisory Board Member",
+                "bio": "Tina Shull (she/her), PhD, is Director of Public History at UNC Charlotte. She is the author of \"Detention Empire: Reagan's War on Immigrants and the Seeds of Resistance,\" and has been named a Soros Justice Fellow for her work in immigrant justice movement-building. A leading expert in climate migration and climate change education, Shull is the creator and curator of award-winning public memory projects \"Climate Refugee Stories\" and \"Climates of Inequality: Charlotte.\" She is also a Climate Reality Leader, a National Geographic Explorer, and an Advisory Board member of Bhumi Global, an organization guided by Hindu principles to address the triple crisis of climate change, biodiversity loss, and pollution."
+            },
+            {
+                "name": "Libby Blanchard",
+                "picture": "/assets/images/member_pictures/libby.jpg",
+                "position": "Advisory Board Member",
+                "bio": "Libby Blanchard is a climate policy research affiliate with the Berkeley Carbon Trading Project at UC Berkeley. She received her PhD from Cambridge, where she was a Gates Cambridge Scholar. Now, she is an executive board member of the Gates Cambridge Alumni Association. Libby is involved with Fossil Free Research because she believes that addressing the fossil fuel industry's influence on academic research is important for any chance to effectively address and mitigate climate change."
             }
         ]
     }

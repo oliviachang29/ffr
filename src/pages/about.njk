@@ -1,7 +1,7 @@
 ---
 title: About
 layout: base
-permalink: /About/
+permalink: /about/
 eleventyNavigation:
   key: About
   order: 6
@@ -18,6 +18,29 @@ eleventyNavigation:
         {% include "title.njk" %}
         <div class="row equal">
             {% for person in home.about.members %}
+                <div class="col-lg-6 col-bio">
+                    <div class="bio-container">
+                        <div class="bio-image-container">
+                            <img class="bio-image" src="{{person.picture}}">
+                        </div>
+                        <div class="bio-content">
+                            <h3 class="bio-title">{{person.name}}</h3>
+                            <p class="bio-position">{{person.position}}</p>
+                            <p class="bio-text readmore">{{person.bio}}</p>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<section class="section-orange-background">
+    <div class="container">
+        {% set sectionTitle = "Advisory Board" %}
+        {% include "title.njk" %}
+        <div class="row equal">
+            {% for person in home.about.adv_board_members %}
                 <div class="col-lg-6 col-bio">
                     <div class="bio-container">
                         <div class="bio-image-container">
