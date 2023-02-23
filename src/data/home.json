@@ -13,6 +13,10 @@
             "link": "http://instagram.com/FossilFreeResearch"
         },
         {
+            "type": "fa-brands fa-linkedin",
+            "link": "https://www.linkedin.com/company/fossil-free-research"
+        },
+        {
             "type": "fa-solid fa-envelope",
             "link": "mailto:fossilfreeresearch@gmail.com"
         }
@@ -107,25 +111,28 @@
     ],
     "coalition": [
         "/assets/images/coalition/Dores Divest.png",
-        "/assets/images/coalition/Umn logo.JPG",
-        "/assets/images/coalition/divestedlogo.png",
-        "/assets/images/coalition/harvard.png",
-        "/assets/images/coalition/xryc_logo.png",
-        "/assets/images/coalition/GNDUC.jpg",
-        "/assets/images/coalition/cambridge.png",
-        "/assets/images/coalition/ff5logo.jpeg",
-        "/assets/images/coalition/princeton.jpeg",
-        "/assets/images/coalition/S4F logo white.png",
-        "/assets/images/coalition/ccclogo.png",
-        "/assets/images/coalition/gnd ucsd logo transparent.png",
-        "/assets/images/coalition/tuftscalogo.jpg",
-        "/assets/images/coalition/Sakilogo.PNG",
-        "/assets/images/coalition/dataforprogresslogo.png",
-        "/assets/images/coalition/gw.png",
-        "/assets/images/coalition/vandylogo.jpeg",
         "/assets/images/coalition/Fridays for Future Digital logo.png",
-        "/assets/images/coalition/sunrise_gw.jpg",
-        "/assets/images/coalition/stanford.png"
+        "/assets/images/coalition/GNDUC.jpg",
+        "/assets/images/coalition/S4F logo white.png",
+        "/assets/images/coalition/Sakilogo.PNG",
+        "/assets/images/coalition/Umn logo.JPG",
+        "/assets/images/coalition/[to update] Divest Princeton Logo Borderless Large.png",
+        "/assets/images/coalition/cambridge.png",
+        "/assets/images/coalition/ccclogo.png",
+        "/assets/images/coalition/cjuoft.png",
+        "/assets/images/coalition/dataforprogresslogo.png",
+        "/assets/images/coalition/dcc.png",
+        "/assets/images/coalition/ff5logo.jpeg",
+        "/assets/images/coalition/gnd ucsd logo transparent.png",
+        "/assets/images/coalition/gw.png",
+        "/assets/images/coalition/harvard.png",
+        "/assets/images/coalition/mit.png",
+        "/assets/images/coalition/stanford.png",
+        "/assets/images/coalition/sunrise_au.png",
+        "/assets/images/coalition/sunrise_brown.png",
+        "/assets/images/coalition/tuftscalogo.jpg",
+        "/assets/images/coalition/vandylogo.jpeg",
+        "/assets/images/coalition/xryc_logo.png"
     ],
     "media": {
         "press_releases": [
