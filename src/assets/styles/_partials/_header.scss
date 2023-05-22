@@ -47,3 +47,25 @@
         padding: $SCALE-1;
     }
 }
+
+.dropdown-menu {
+    background: orange;
+    border-radius: 0;
+    border: none;
+    li {
+        &:hover {
+            a {
+                color: white
+            }
+        }
+        a {
+            color: white;
+            font-weight: bold;
+        }
+    }
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+    background-color: $orange;
+    opacity: 0.5
+}

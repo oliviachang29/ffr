@@ -14,17 +14,16 @@ eleventyNavigation:
   <div class="container">
     {% set sectionTitle = "Press Releases" %}
     {% include "title.njk" %}
-    <div class="offset-md-2 col-md-8">
+    <div class="offset-lg-2 col-lg-8">
       {% for release in home.media.press_releases %}
-          <div class="release__card">
-            <h5>{{ release.title }}</h5>
-            <p>{{ release.excerpt }}"</p>
-              <p>
-                <a target="_blank" href="{{ release.link }}">Download Release</a>
-              </p>
-            </div>
-          </div>
-        {% endfor %}
+        <div class="release__card">
+          <h5>{{ release.title }}</h5>
+          <p>{{ release.excerpt }}"</p>
+          <p>
+            <a target="_blank" href="{{ release.link }}">Download Release</a>
+          </p>
+        </div>
+      {% endfor %}
     </div>
   </div>
 </section>

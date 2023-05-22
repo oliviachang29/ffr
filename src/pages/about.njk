@@ -4,56 +4,30 @@ layout: base
 permalink: /about/
 eleventyNavigation:
   key: About
+  title: Mission and Vision
   order: 6
 ---
 
-<div
-    class="container-fluid d-flex justify-content-center align-items-center hero hero__small"
-    style="background-image: url('/assets/images/hero_images/1.png')">
+<div class="container-fluid d-flex justify-content-center align-items-center hero hero__small">
     <h1 class="text-align-center">About</h1>
 </div>
-<section class="section-gray-background">
+<section class="section-orange-background">
     <div class="container">
-        {% set sectionTitle = "Board" %}
-        {% include "title.njk" %}
-        <div class="row equal">
-            {% for person in home.about.members %}
-                <div class="col-lg-6 col-bio">
-                    <div class="bio-container">
-                        <div class="bio-image-container">
-                            <img class="bio-image" src="{{person.picture}}">
-                        </div>
-                        <div class="bio-content">
-                            <h3 class="bio-title">{{person.name}}</h3>
-                            <p class="bio-position">{{person.position}}</p>
-                            <p class="bio-text readmore">{{person.bio}}</p>
-                        </div>
-                    </div>
-                </div>
-            {% endfor %}
+        <div class="offset-md-1 col-md-10 offset-lg-2 col-lg-8 offset-xl-3 col-xl-6 text-center">
+            {% set sectionTitle = "Mission" %}
+            {% include "title.njk"%}
+            <p>Fossil Free Research is an organization that supports students and faculty working to expose and dismantle fossil fuel industry influence on higher education, especially concerning climate-related research, in order to protect the integrity of academia and the policy it informs, enable real climate leadership from the academic institutions producing it, revoke the fossil fuel industry’s social license to operate, and upskill the next generation of climate justice leaders.</p>
+            <img src="/assets/images/imperial.png" width="100%" class="mission__image">
         </div>
     </div>
 </section>
 
-<section class="section-orange-background">
+<section class="section-gray-background">
     <div class="container">
-        {% set sectionTitle = "Advisory Board" %}
-        {% include "title.njk" %}
-        <div class="row equal">
-            {% for person in home.about.adv_board_members %}
-                <div class="col-lg-6 col-bio">
-                    <div class="bio-container">
-                        <div class="bio-image-container">
-                            <img class="bio-image" src="{{person.picture}}">
-                        </div>
-                        <div class="bio-content">
-                            <h3 class="bio-title">{{person.name}}</h3>
-                            <p class="bio-position">{{person.position}}</p>
-                            <p class="bio-text readmore">{{person.bio}}</p>
-                        </div>
-                    </div>
-                </div>
-            {% endfor %}
+        <div class="offset-md-1 col-md-10 offset-lg-2 col-lg-8 offset-xl-3 col-xl-6 text-center">
+            {% set sectionTitle = "Vision" %}
+            {% include "title.njk"%}
+            <p>We strive for a world where, free from the stain of fossil fuel industry influence, a more transparent, accessible, and democratic higher education system can unleash its full potential in contributing toward a rapid and socially just global energy transition.</p>
         </div>
     </div>
 </section>

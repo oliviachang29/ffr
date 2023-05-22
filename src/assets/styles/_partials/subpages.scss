@@ -26,9 +26,14 @@
     padding: $SCALE-1 $SCALE-2 $SCALE-2;
     margin-bottom: $SCALE-1;
     border: none;
+    @include smooth-transition;
     img {
         margin: $SCALE-1 0;
         padding: $SCALE-1;
+        @media(max-width: $md) {
+            width: 50%;
+            margin: 0 auto;
+        }
     }
     p {
         text-decoration: underline white;
@@ -176,4 +181,11 @@ $bio-container-padding: 30px;
 
 .bio-text {
 
+}
+
+/*==================*/
+/*----  MISSION  ----*/
+/*==================*/
+.mission__image {
+    margin-top: $SCALE-2;
 }

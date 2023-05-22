@@ -19,6 +19,22 @@ eleventyNavigation:
         </div>
     </div>
 </section>
+<section class="section-gray-background">
+    <div class="container">
+        {% set sectionTitle = "Studies" %}
+        {% include "title.njk" %}
+        <div class="offset-md-2 col-md-8">
+            <div class="release__card">
+                <h5>Favourability towards natural gas relates to funding source of university energy centres</h5>
+                <p>One of the first peer-reviewed studies to proving that fossil fuel industry-funded research skews research outcomes
+                    in favor of industry interests.</p>
+                <p>
+                    <a target="_blank" href="https://www.nature.com/articles/s41558-022-01521-3">Read study here</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
 <section class="section-orange-background">
     <div class="container">
         <div class="offset-md-1 col-md-10 offset-lg-2 col-lg-8 offset-xl-3 col-xl-6">
@@ -32,52 +48,66 @@ eleventyNavigation:
                     height="400"
                     allow="autoplay"></iframe>
                 <a href="https://drive.google.com/file/d/1hO-ms3WjgUoeH_SbkGVdhfe8CSn0IOG9/view?usp=drive_open">Watch the teach-in here</a>
-            </p>
+            </div>
+            <div class="resources__embed">
+                <h3>“Fossil Free Research 101” Slideshow</h3>
+                <iframe
+                    src="https://docs.google.com/presentation/d/e/2PACX-1vQzerKUrro5EqQHjIDR2PypXNVInax3PCPtUL6l8JqCyb2zBFJ96GhkXlhGFlHibMPoqThTbzzw-H33/embed?start=false&loop=false&delayms=3000"
+                    frameborder="0"
+                    width="100%"
+                    height="500"
+                    allowfullscreen="true"
+                    mozallowfullscreen="true"
+                    webkitallowfullscreen="true"></iframe>
+            </div>
+            <div class="resources__embed">
+                <h3>“Uncovering Funding at Your University” Video & Slides</h3>
+                <p>
+                    <a href="https://vimeo.com/733244434">Research &amp; FOIA Training</a>
+                    from
+                    <a href="https://vimeo.com/user181249044">Avital Nathman</a>
+                    on
+                    <a href="https://vimeo.com">Vimeo</a>.</p>
+                <iframe
+                    src="https://player.vimeo.com/video/733244434?h=df8688f84a"
+                    width="100%"
+                    height="400"
+                    frameborder="0"
+                    allow="autoplay; fullscreen; picture-in-picture"
+                    allowfullscreen></iframe>
+                <p>
+                    <a href="https://drive.google.com/file/d/1lFfdW7rRlx3ljf3YjDE5n-1JxBTGvAWg/view?usp=sharing">Slides from this
+                        presentation here</a>
+                </p>
+            </div>
+            <div class="resources__embed">
+                <h3>Ilana Cohen – The Time for Fossil-Free Research is Now</h3>
+                <iframe
+                    src="https://www.youtube.com/embed/qrPi8HMKuQQ"
+                    title="YouTube video player"
+                    frameborder="0"
+                    width="100%"
+                    height="400"
+                    allowfullscreen="true"
+                    mozallowfullscreen="true"
+                    webkitallowfullscreen="true"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+            </div>
         </div>
-        <div class="resources__embed">
-            <h3>“Fossil Free Research 101” Slideshow</h3>
-            <iframe
-                src="https://docs.google.com/presentation/d/e/2PACX-1vQzerKUrro5EqQHjIDR2PypXNVInax3PCPtUL6l8JqCyb2zBFJ96GhkXlhGFlHibMPoqThTbzzw-H33/embed?start=false&loop=false&delayms=3000"
-                frameborder="0"
-                width="100%"
-                height="500"
-                allowfullscreen="true"
-                mozallowfullscreen="true"
-                webkitallowfullscreen="true"></iframe>
+    </section>
+    <section class="section-white-background">
+        <div class="container">
+            <div class="offset-md-1 col-md-10 offset-lg-2 col-lg-8 offset-xl-3 col-xl-6">
+                {% set sectionTitle = "Reports" %}
+                {% include "title.njk" %}
+                <p>Reports on fossil fuel ties, mostly by students:</p>
+                <ul>
+                    {% for report in home.reports %}
+                        <li class="bullet-point">
+                            <a href="{{ report.link }}">{{ report.title }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
         </div>
-        <div class="resources__embed">
-            <h3>“Uncovering Funding at Your University” Video & Slides</h3>
-            <p>
-                <a href="https://vimeo.com/733244434">Research &amp; FOIA Training</a>
-                from
-                <a href="https://vimeo.com/user181249044">Avital Nathman</a>
-                on
-                <a href="https://vimeo.com">Vimeo</a>.</p>
-            <iframe
-                src="https://player.vimeo.com/video/733244434?h=df8688f84a"
-                width="100%"
-                height="400"
-                frameborder="0"
-                allow="autoplay; fullscreen; picture-in-picture"
-                allowfullscreen></iframe>
-            <p>
-                <a href="https://drive.google.com/file/d/1lFfdW7rRlx3ljf3YjDE5n-1JxBTGvAWg/view?usp=sharing">Slides from this
-                    presentation here</a>
-            </p>
-        </div>
-    </div>
-</div></section><section class="section-white-background">
-<div class="container">
-    <div class="offset-md-1 col-md-10 offset-lg-2 col-lg-8 offset-xl-3 col-xl-6">
-        {% set sectionTitle = "Reports" %}
-        {% include "title.njk" %}
-        <p>Student reports on fossil fuel ties:</p>
-        <ul>
-            {% for report in home.reports %}
-                <li class="bullet-point">
-                    <a href="{{ report.link }}">{{ report.title }}</a>
-                </li>
-            {% endfor %}
-        </ul>
-    </div>
-</div></section>
+    </section>

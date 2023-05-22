@@ -18,22 +18,14 @@
         },
         {
             "type": "fa-solid fa-envelope",
-            "link": "mailto:fossilfreeresearch@gmail.com"
+            "link": "mailto:info@fossilfreeresearch.org"
         }
     ],
     "letter": {
-        "signatories": 800,
+        "signatories": 950,
         "institutions": 130
     },
     "faqs": [
-        {
-            "question": "Who is “Fossil Free Research” and who is behind this letter?",
-            "answer": "The letter is endorsed by a wide range of academics, climate experts, and university members calling on US and UK universities to urgently institute a ban on fossil fuel industry funding for climate change-related research. It was drafted by student coordinators of the new Fossil Free Research campaign, who are also organizers with Cambridge Climate Justice and Fossil Fuel Divest Harvard, in collaboration with leading academics and experts focused on climate change issues."
-        },
-        {
-            "question": "Why does the letter only address the leadership of US and UK universities?",
-            "answer": "We want to see higher education institutions worldwide adopt this ban. We’re starting with US and UK universities because, as some of the most well-resourced and prestigious higher education institutions in the world, in two of the countries most responsible for historic global emissions, they have a responsibility to be the first movers in this effort. So many universities in these countries have also already committed to fossil fuel divestment or climate action, making their extensive ongoing research ties with the fossil fuel industry all the more indefensible. Enacting a fossil fuel funding ban for climate change, environmental, and energy policy-related research is an intuitive and urgently needed next step for these universities to become true climate leaders."
-        },
         {
             "question": "What does the proposed ban include?",
             "answer": "As with divestment, it is clear that this is a policy that will be applied differently in different contexts, and so institutions may want to formulate the ban in slightly different ways. However, at a minimum, such a ban must include the Carbon Underground 200, a list of the world’s top 100 coal and top 100 oil and gas publicly traded companies and their subsidiaries. It must also include funding from any company engaged in building new fossil fuel infrastructure or exploring for new reserves, as this blatantly ignores the International Energy Agency’s finding that investment in new fossil fuel supply projects must cease immediately if the world is to limit planetary heating to 1.5 degrees Celsius and avoid runaway climate breakdown."
@@ -57,10 +49,6 @@
         {
             "question": "What precedents exist for this ban?",
             "answer": "There are numerous examples of institutions refusing money from certain industries on both scientific and ethical grounds. Since the late 1990s, tobacco companies have increasingly been barred from providing funding for clinical research at many public health institutions (notably including the Harvard T. H. Chan School of Public Health, Cancer Research UK, and the British Heart Foundation) due to these companies’ extensive record of spreading misinformation about the public health harms of their products. This precedent is crucial given that fossil fuel industry funding of climate-related research presents a similar conflict of interest, with fossil fuel companies employing disinformation tactics directly from the tobacco industry’s playbook.<br><br>Over the last decade, we have also seen an overwhelming trend among higher education institutions, non-profit organizations, pension funds, and other major asset managers of divesting from the fossil fuel industry preciselybecause all of them recognize the industry’s behavior and core business model as being morally reprehensible and at oddswith their core values. More recently, prestigious cultural institutions have reached a similar conclusion and begun tosever ties with the fossil fuel industry. For instance, the National Portrait Gallery recently decided to end its30-year partnership with BP over the company’s appalling environmental record, and there is a major campaign for theScience Museum to do the same."
-        },
-        {
-            "question": "Why are you making this call amid the Russian invasion in Ukraine and the ripple effects on energy supply?",
-            "answer": "The call to reject funding from fossil fuel companies for climate change-related research is particularly salient inthe wake of the latest IPCC report and the Russian war on Ukraine, which has made abundantly clear the need for vastinvestment in and development of renewable energy infrastructure for the well-being and survival of our communities andfuture generations, and global security. Meanwhile, fossil fuel companies are cashing in on soaring energy prices tosecure record profits and continue to invest tiny proportions of their overall capital budgets on renewables. As thesecompanies exploit the humanitarian crisis for their own gain and work to sustain their deadly core business model, it isobvious that we simply cannot trust these companies with the future of our planet. &nbsp;Shell’s decision to purchase atankard of Russian oil in the midst of this crisis represents yet another example of the industry’s commitment toprofit-making at the expense of all standards of basic morality and human decency."
         }
     ],
     "coverage": [
@@ -107,6 +95,22 @@
         {
             "title": "Oxford (Oxford Climate Justice Campaign)",
             "link": "https://oxfordunifossilfree.files.wordpress.com/2021/08/money-people-reputation-oxfords-ties-with-the-fossil-fuel-industry-revision.pdf"
+        },
+        {
+            "title": "Complicity in the Climate Emergency (University of British Columbia)",
+            "link": "https://www.climatejusticeubc.org/report"
+        },
+        {
+            "title": "Fossil-Fuelled Universities (Students for a Fossil Free Singapore)",
+            "link": "https://www.studentsforafossilfreefuture.org/the-report"
+        },
+        {
+            "title": "Dissociate Now: A Fossil Free Brown (Sunrise Brown)",
+            "link": "https://d1fdloi71mui9q.cloudfront.net/TKaakgSSzyCVVStyLOEA_Dissociate%20Now.pdf"
+        },
+        {
+            "title": "A Fossil Fuel Free Harvard (Fossil Fuel Divest Harvard Alumni)",
+            "link": "https://www.divestharvardalumni.com/s/A-Fossil-Fuel-Free-Harvard.pdf"
         }
     ],
     "coalition": [
@@ -140,9 +144,68 @@
                 "title": "Princeton University Dissociation & Divestment",
                 "excerpt": "On Thursday, September 29th, Princeton University announced a commitment to divest and dissociate from 90 oil and gas companies, severing both endowment ties and research partnerships with parts of the fossil fuel industry.",
                 "link": "/assets/docs/Princeton_Dissociation.pdf"
+            },
+            {
+                "title": "International Protests for Fossil Free Research Call Out Big Oil’s Grip on Academia",
+                "excerpt": "Across the U.S., U.K., and Canada, students are rising up to demand that their universities protect climate research against the dangerous influence of fossil fuel industry funding. The actions mark the beginning of four International Days of Action for the surging Fossil Free Research movement. As the COP27 climate talks see a record number of fossil fuel industry lobbyists, student activists are making clear that universities should not reward companies engaged in climate subterfuge with a seat at the table in climate research.",
+                "link": "https://docs.google.com/document/d/1KC0MiGjiN-L1RP-K2eb447P813VXSy_uK5jFZJ8Rleg/edit"
+            },
+            {
+                "title": "New Report: Select Universities Received Over $676 Million from Fossil Fuel Companies, Including for Climate-related Research",
+                "excerpt": "A new report by Data for Progress and Fossil Free Research finds that 27 leading climate research universities have received over $676 million from major fossil fuel companies, presenting a serious conflict of interest, especially for academic climate change research.",
+                "link": "https://docs.google.com/document/d/11s1hjJSI-HpTNLo3RXaHiAmAJcEhRqmUMtxwVIwINs0/edit"
             }
         ],
         "featured": [
+            {
+                "title": "Accountable Allies: The Undue Influence of Fossil Fuel Money in Academia",
+                "excerpt": "Many of the nation’s most prominent universities, including Harvard, MIT, and George Washington, are awash with fossil fuel funding. New research conducted by Data for Progress confirms this, finding hundreds of millions of dollars donated from key fossil fuel companies to fund climate research at many of these academic institutions.",
+                "link": "https://www.dataforprogress.org/memos/accountable-allies-the-undue-influence-of-fossil-fuel-money-in-academia",
+                "logo": "/assets/images/media_orgs/data_for_progress.jpg"
+            },
+            {
+                "title": " Universities Are Starting to Say No to Fossil Fuel Funding",
+                "excerpt": "Fossil Free Research, a new group formed by many of the same students who pushed their campuses to divest from fossil fuels, is demanding that the world's top universities break their addiction to fossil fuel money and in late September they logged their first big win: Princeton University.",
+                "link": "https://open.spotify.com/episode/2WdQYehMUSha72bdSwWsk0",
+                "logo": "/assets/images/media_orgs/drilled_podcast.png",
+                "width": "50%"
+            },
+            {
+                "title": "When Divestment Isn’t Enough",
+                "excerpt": "A movement to get oil money out of academic research is taking shape on campuses.",
+                "link": "https://www.chronicle.com/article/when-divestment-isnt-enough?cid2=gen_login_refresh&cid=gen_sign_in",
+                "logo": "/assets/images/media_orgs/chronicle_higher_education.png"
+            },
+            {
+                "title": "Exxon in the classroom: how big oil money influences US universities",
+                "excerpt": "Students at Princeton describe unease that Exxon employee had an office on campus, while dozens of universities have big oil links",
+                "link": "https://www.theguardian.com/education/2023/mar/27/fossil-fuel-firms-us-universities-colonize-academia",
+                "logo": "/assets/images/media_orgs/the_guardian.png"
+            },
+            {
+                "title": "Total : Comment le géant de l'industrie pétrolière influence la transition énergétique",
+                "excerpt": "Un rapport publié récemment par l'ONG Greenpeace fait état de l'omniprésence de Total dans le domaine de la recherche scientifique. En finançant de nombreuses études, le pétrolier serait en mesure d'orienter la transition écologique.",
+                "link": "https://www.nationalgeographic.fr/environnement/2023/02/total-comment-le-geant-de-lindustrie-petroliere-influence-la-transition-energetique",
+                "logo": "/assets/images/media_orgs/national_geographic.webp"
+            },
+            {
+                "title": "Universities face mounting pressure to stop taking fossil fuel funds",
+                "excerpt": "Climate activists, emboldened by their success in pushing wealthy universities to divest their stocks from fossil fuel companies, are now looking to a new and even thornier target: the billions of dollars universities accept from those companies for climate research.",
+                "link": "https://www.bostonglobe.com/2022/06/13/science/universities-face-mounting-pressure-stop-taking-fossil-fuel-funds/",
+                "logo": "/assets/images/media_orgs/boston_globe2.png"
+            }
+        ],
+        "news": [
+            {
+                "title": "Fossil fuel companies donated $700m to US universities over 10 years",
+                "link": "https://www.theguardian.com/environment/2023/mar/01/fossil-fuel-companies-donate-millions-us-universities",
+                "logo": "/assets/images/media_orgs/the_guardian.png"
+            },
+            {
+                "title": "Students Tell Their Universities: Keep Fossil Fuel Companies Out of Climate Research",
+                "link": "https://www.thenation.com/article/environment/climate-change-cop27-fossil-fuel-university-research/",
+                "logo": "/assets/images/media_orgs/the_nation.png"
+            },
             {
                 "title": "Princeton Activists Just Won a Historic Victory for Climate Research",
                 "excerpt": "After a decade of student organizing, Princeton made a pledge to divest its endowment and reject fossil fuel money.",
@@ -162,12 +225,6 @@
                 "logo": "/assets/images/media_orgs/data_for_progress.jpg"
             },
             {
-                "title": "Universities face mounting pressure to stop taking fossil fuel funds",
-                "excerpt": "Climate activists, emboldened by their success in pushing wealthy universities to divest their stocks from fossil fuel companies, are now looking to a new and even thornier target: the billions of dollars universities accept from those companies for climate research.",
-                "link": "https://www.bostonglobe.com/2022/06/13/science/universities-face-mounting-pressure-stop-taking-fossil-fuel-funds/",
-                "logo": "/assets/images/media_orgs/boston_globe2.png"
-            },
-            {
                 "title": "Why Are Fossil Fuel Companies Funding Climate Change Research?",
                 "excerpt": "As oil and gas companies report record profits, the Fossil Free Research campaign calls on universities to refuse their donations and maintain independence.",
                 "link": "https://www.thenation.com/article/politics/oil-gas-university-greenwashing/",
@@ -179,9 +236,7 @@
                 "link": "https://open.spotify.com/episode/380ggq1QeiHQbXJgehWF0x?si=nBnNEqjAQ5OjZehtrLYhIw&nd=1",
                 "logo": "/assets/images/media_orgs/coolsolutions.png",
                 "width": "50%"
-            }
-        ],
-        "news": [
+            },
             {
                 "title": "The Fossil Free Research movement is taking universities by storm",
                 "excerpt": "A student-led effort to get fossil fuel money out of university research is building on the divestment movement’s biggest successes. ",
@@ -197,6 +252,11 @@
             {
                 "title": "Universities must reject fossil fuel cash for climate research, say academics",
                 "link": "https://www.theguardian.com/science/2022/mar/21/universities-must-reject-fossil-fuel-cash-for-climate-research-say-academics?",
+                "logo": "/assets/images/media_orgs/the_guardian.png"
+            },
+            {
+                "title": "Harvard professor lobbied SEC on behalf of oil firm that pays her lavishly, emails show",
+                "link": "https://www.theguardian.com/environment/2023/apr/06/harvard-professor-jody-freeman-sec-conocophillips-emails",
                 "logo": "/assets/images/media_orgs/the_guardian.png"
             },
             {
@@ -258,6 +318,26 @@
                 "title": "Call for universities to cut research ties with fossil fuel industry",
                 "link": "https://www.rte.ie/news/2022/0321/1287639-fossil-fuel-letter/",
                 "logo": "/assets/images/media_orgs/rte.png"
+            },
+            {
+                "title": "A Brower Youth Award Winner Outlines a New Fossil Free Research Campaign",
+                "link": "https://www.thenation.com/article/environment/ilana-cohen-brower-youth-award/",
+                "logo": "/assets/images/media_orgs/the_nation.png"
+            },
+            {
+                "title": "Here’s How Students Can Choose — and Create — a Sustainable University",
+                "link": "https://www.bestcolleges.com/news/students-choose-create-a-sustainable-university/",
+                "logo": "/assets/images/media_orgs/best_colleges.png"
+            },
+            {
+                "title": "Campus Activists Fight Back Against Academic Reputation-Laundering",
+                "link": "https://revolvingdoorproject.substack.com/p/campus-activists-fight-back-against",
+                "logo": "/assets/images/media_orgs/revolving_door_project.webp"
+            },
+            {
+                "title": "Can ‘Dirty Money’ Pollute Climate Scholarship?",
+                "link": "https://www.insidehighered.com/news/2022/12/02/sustainability-school-faces-backlash-over-fossil-fuel-funds",
+                "logo": "/assets/images/media_orgs/inside_higher_ed.png"
             }
         ],
         "opeds": [
@@ -300,6 +380,41 @@
                 "title": "The case for Fossil Free Research: what universities must do",
                 "link": "https://www.varsity.co.uk/opinion/23645",
                 "logo": "/assets/images/media_orgs/varsity.png"
+            },
+            {
+                "title": "Princeton Will Stop Taking Oil Money. Now the Pressure Is on Harvard, MIT, and Columbia.",
+                "link": "https://newrepublic.com/article/168099/princeton-fossil-fuels-harvard-mit-columbia?utm_term=Autofeed&utm_campaign=EB_TNR&utm_medium=Social&utm_source=Twitter#Echobox=1666157012",
+                "logo": "/assets/images/media_orgs/the_new_republic.png"
+            },
+            {
+                "title": "Fossil Fuel Companies Are Donating Millions to Skew University Research",
+                "link": "https://www.thenation.com/article/environment/data-for-progress-fossil-free-research-report/",
+                "logo": "/assets/images/media_orgs/the_nation.png"
+            },
+            {
+                "title": "We need to stop letting Big Oil fund our climate research",
+                "link": "https://www.nationalobserver.com/2023/03/03/opinion/we-need-stop-letting-big-oil-fund-our-climate-research",
+                "logo": "/assets/images/media_orgs/canada_national_observer.svg"
+            },
+            {
+                "title": "If the COP27 Won’t Act, Students Will: Why We Demand Fossil Free Research",
+                "link": "https://www.ecowatch.com/george-washington-university-fossil-free-research.html",
+                "logo": "/assets/images/media_orgs/eco_watch.webp"
+            },
+            {
+                "title": "Grad Students and Faculty Don’t Want to Work for Fossil Fuel Industry Anymore",
+                "link": "https://truthout.org/articles/grad-students-and-faculty-dont-want-to-work-for-fossil-fuel-industry-anymore/",
+                "logo": "/assets/images/media_orgs/truthout.png"
+            },
+            {
+                "title": "Oil Money Undermines Academic Autonomy",
+                "link": "https://www.insidehighered.com/views/2022/10/19/oil-money-undermines-academic-autonomy-opinion",
+                "logo": "/assets/images/media_orgs/inside_higher_ed.png"
+            },
+            {
+                "title": "These Elite Universities Have a Fossil Fuel Problem",
+                "link": "https://newrepublic.com/article/171810/ivy-league-conocophillips-chevron-tellurian",
+                "logo": "/assets/images/media_orgs/the_new_republic.png"
             }
         ]
     },
@@ -314,8 +429,8 @@
             {
                 "name": "Jake Lowe",
                 "picture": "/assets/images/member_pictures/jake.jpg",
-                "position": "Co-Executive Director",
-                "bio": "Born and raised in Frisco, Colorado, Jake is a senior at George Washington University studying Geography and International Affairs. He is a co-founder of Fossil Free Research and an organizer with the Sunrise GW no fossil fuel money campaign. Jake was previously a researcher and student organizer with UnKoch My Campus."
+                "position": "Executive Director",
+                "bio": "Born and raised in Frisco, Colorado, Jake is a senior at George Washington University studying Geography and International Affairs. He is a co-founder of Fossil Free Research and an organizer with the Sunrise GW no fossil fuel money campaign. Jake was previously a researcher and student organizer with UnKoch My Campus. Contact him at jlowe@fossilfreeresearch.org."
             },
             {
                 "name": "Chelsey Gilchrist",
