@@ -111,6 +111,10 @@
         {
             "title": "A Fossil Fuel Free Harvard (Fossil Fuel Divest Harvard Alumni)",
             "link": "https://www.divestharvardalumni.com/s/A-Fossil-Fuel-Free-Harvard.pdf"
+        },
+        {
+            "title": "A Pipeline of Ideas",
+            "link": "https://drive.google.com/file/d/1Kpam-D1na2f-5d_Jb5-x7pu57MKk7FON/view?usp=sharing"
         }
     ],
     "coalition": [
@@ -136,14 +140,28 @@
         "/assets/images/coalition/sunrise_brown.png",
         "/assets/images/coalition/tuftscalogo.jpg",
         "/assets/images/coalition/vandylogo.jpeg",
-        "/assets/images/coalition/xryc_logo.png"
+        "/assets/images/coalition/xryc_logo.png",
+        "/assets/images/coalition/cascadiacan.png",
+        "/assets/images/coalition/ica.png",
+        "/assets/images/coalition/fffdc.png",
+        "/assets/images/coalition/saphroninitiative.png",
+        "/assets/images/coalition/fffus.png",
+        "/assets/images/coalition/shellout.png",
+        "/assets/images/coalition/friendsoftheearth.png",
+        "/assets/images/coalition/thirdact.png",
+        "/assets/images/coalition/friendsoftheearthscotland.jpg"
     ],
     "media": {
         "press_releases": [
             {
-                "title": "Princeton University Dissociation & Divestment",
-                "excerpt": "On Thursday, September 29th, Princeton University announced a commitment to divest and dissociate from 90 oil and gas companies, severing both endowment ties and research partnerships with parts of the fossil fuel industry.",
-                "link": "/assets/docs/Princeton_Dissociation.pdf"
+                "title": "VU Amsterdam Cuts Off Fossil Fuel Industry",
+                "excerpt": "After demands from scientists at the Dutch University, Vrije Universiteit Amsterdam will no longer collaborate on research with fossil fuel companies that are not aligned with the Paris Agreement goals.",
+                "link": "https://docs.google.com/document/d/1zugW_nOO14f8l3cCWM1yQfUVJE_zDZdsXAIZeTTsNzI/edit?usp=sharing"
+            },
+            {
+                "title": "New Report: Select Universities Received Over $676 Million from Fossil Fuel Companies, Including for Climate-related Research",
+                "excerpt": "A new report by Data for Progress and Fossil Free Research finds that 27 leading climate research universities have received over $676 million from major fossil fuel companies, presenting a serious conflict of interest, especially for academic climate change research.",
+                "link": "https://docs.google.com/document/d/11s1hjJSI-HpTNLo3RXaHiAmAJcEhRqmUMtxwVIwINs0/edit"
             },
             {
                 "title": "International Protests for Fossil Free Research Call Out Big Oil’s Grip on Academia",
@@ -151,9 +169,9 @@
                 "link": "https://docs.google.com/document/d/1KC0MiGjiN-L1RP-K2eb447P813VXSy_uK5jFZJ8Rleg/edit"
             },
             {
-                "title": "New Report: Select Universities Received Over $676 Million from Fossil Fuel Companies, Including for Climate-related Research",
-                "excerpt": "A new report by Data for Progress and Fossil Free Research finds that 27 leading climate research universities have received over $676 million from major fossil fuel companies, presenting a serious conflict of interest, especially for academic climate change research.",
-                "link": "https://docs.google.com/document/d/11s1hjJSI-HpTNLo3RXaHiAmAJcEhRqmUMtxwVIwINs0/edit"
+                "title": "Princeton University Dissociation & Divestment",
+                "excerpt": "On Thursday, September 29th, Princeton University announced a commitment to divest and dissociate from 90 oil and gas companies, severing both endowment ties and research partnerships with parts of the fossil fuel industry.",
+                "link": "/assets/docs/Princeton_Dissociation.pdf"
             }
         ],
         "featured": [
@@ -338,6 +356,11 @@
                 "title": "Can ‘Dirty Money’ Pollute Climate Scholarship?",
                 "link": "https://www.insidehighered.com/news/2022/12/02/sustainability-school-faces-backlash-over-fossil-fuel-funds",
                 "logo": "/assets/images/media_orgs/inside_higher_ed.png"
+            },
+            {
+                "title": "Princeton Will Stop Taking Oil Money. Now the Pressure Is on Harvard, MIT, and Columbia.",
+                "link": "https://newrepublic.com/article/168099/princeton-fossil-fuels-harvard-mit-columbia?utm_term=Autofeed&utm_campaign=EB_TNR&utm_medium=Social&utm_source=Twitter#Echobox=1666157012",
+                "logo": "/assets/images/media_orgs/the_new_republic.png"
             }
         ],
         "opeds": [
@@ -382,11 +405,6 @@
                 "logo": "/assets/images/media_orgs/varsity.png"
             },
             {
-                "title": "Princeton Will Stop Taking Oil Money. Now the Pressure Is on Harvard, MIT, and Columbia.",
-                "link": "https://newrepublic.com/article/168099/princeton-fossil-fuels-harvard-mit-columbia?utm_term=Autofeed&utm_campaign=EB_TNR&utm_medium=Social&utm_source=Twitter#Echobox=1666157012",
-                "logo": "/assets/images/media_orgs/the_new_republic.png"
-            },
-            {
                 "title": "Fossil Fuel Companies Are Donating Millions to Skew University Research",
                 "link": "https://www.thenation.com/article/environment/data-for-progress-fossil-free-research-report/",
                 "logo": "/assets/images/media_orgs/the_nation.png"
@@ -419,54 +437,68 @@
         ]
     },
     "about": {
-        "members": [
-            {
-                "name": "Ilana Cohen",
-                "picture": "/assets/images/member_pictures/ilana.jpg",
-                "position": "Board Chair",
-                "bio": "Ilana Cohen is a co-founder of Fossil Free Research and lead organizer of Fossil Fuel Divest Harvard, as well as a freelance climate journalist and contributor to The Nation. As a senior and Edmond J. Safra Center for Ethics Undergraduate Fellow at Harvard University, Ilana studies Social Studies and Philosophy with a focus on the ethics of climate change. She is also an Advisory Board member of the Climate Protection and Restoration Initiative and is originally from Brooklyn, New York."
-            },
+        "staff": [
             {
                 "name": "Jake Lowe",
                 "picture": "/assets/images/member_pictures/jake.jpg",
                 "position": "Executive Director",
-                "bio": "Born and raised in Frisco, Colorado, Jake is a senior at George Washington University studying Geography and International Affairs. He is a co-founder of Fossil Free Research and an organizer with the Sunrise GW no fossil fuel money campaign. Jake was previously a researcher and student organizer with UnKoch My Campus. Contact him at jlowe@fossilfreeresearch.org."
+                "bio": "Born and raised in Frisco, Colorado, Jake (he/him) is a senior at George Washington University studying Geography and International Affairs. He is a co-founder of Fossil Free Research and an organizer with the Sunrise GW no fossil fuel money campaign. Jake was previously a researcher and student organizer with UnKoch My Campus. Contact him at jlowe@fossilfreeresearch.org."
+            },
+            {
+                "name": "Alicia Colomer",
+                "picture": "/assets/images/member_pictures/alicia.png",
+                "position": "Coordinator of Communications and Operations",
+                "bio": "Alicia Colomer (she/her) is a student organizer at New York University. She founded and led the Sunrise Movement hub and led the fossil fuel divestment campaign at NYU. Alicia was raised in Mexico City and Washington DC. She is now based in New York City."
+            },
+            {
+                "name": "Phoebe Barr",
+                "picture": "/assets/images/member_pictures/phoebe.png",
+                "position": "Summer Coordinator",
+                "bio": "Phoebe Barr (she/her) is a rising senior studying History and Literature and a leading organizer with Fossil Fuel Divest Harvard. She worked as a researcher for the Data For Progress and Fossil Free Research joint project on fossil fuel industry funding at major universities. Her home is in Philadelphia."
+            }
+        ],
+        "members": [
+            {
+                "name": "Ilana Cohen",
+                "picture": "/assets/images/member_pictures/ilana.jpg",
+                "position": "Steering Committee Chair",
+                "bio": "Ilana Cohen (she/her) is a co-founder of Fossil Free Research and lead organizer of Fossil Fuel Divest Harvard, as well as a freelance climate journalist and contributor to The Nation. As a senior and Edmond J. Safra Center for Ethics Undergraduate Fellow at Harvard University, Ilana studies Social Studies and Philosophy with a focus on the ethics of climate change. She is also an Advisory Board member of the Climate Protection and Restoration Initiative and is originally from Brooklyn, New York."
             },
             {
                 "name": "Chelsey Gilchrist",
                 "picture": "/assets/images/member_pictures/chelsey.jpg",
-                "position": "Board",
-                "bio": "Chelsey Gilchrist is native Ohioan and a second-year at The Ohio State University, where she studies Economics and Statistics. In addition to her work with Fossil Free Research, Chelsey organizes with the campus divestment campaign."
+                "position": "Steering Committee",
+                "bio": "Chelsey Gilchrist (she/her) is native Ohioan and a second-year at The Ohio State University, where she studies Economics and Statistics. In addition to her work with Fossil Free Research, Chelsey organizes with the campus divestment campaign."
             },
             {
                 "name": "Jeremy Liskar",
                 "picture": "/assets/images/member_pictures/jeremy.jpg",
-                "position": "Board",
+                "position": "Steering Committee",
                 "bio": "Jeremy Liskar (he/him) is from Chicago and is completing his masters degree in public administration at The George Washington University. As an undergraduate student, he co-founded Sunrise GW, led its successful fossil fuel divestment campaign, and launched one of the first fossil free research campaigns in the country. He currently works at The Climate Reality Project as Legislative Coordinator, helping lead legislative, regulatory, and implementation advocacy efforts at both the federal and state level."
             },
             {
                 "name": "Daniel Barszczak",
                 "picture": "/assets/images/member_pictures/daniel.jpg",
-                "position": "Board",
-                "bio": "Daniel studies Mechanical Engineering and Computer Science at Tufts University and—alongside Fossil Free Research—organizes with Tufts Climate Action. He is originally from the Bay Area. In his free time, Daniel loves to bike and explore nature!"
+                "position": "Steering Committee",
+                "bio": "Daniel (he/him) studies Mechanical Engineering and Computer Science at Tufts University and—alongside Fossil Free Research—organizes with Tufts Climate Action. He is originally from the Bay Area. In his free time, Daniel loves to bike and explore nature!"
             },
             {
                 "name": "Sam Gee",
                 "picture": "/assets/images/member_pictures/sam.png",
-                "position": "Board",
-                "bio": "Sam Gee is from London and is a second-year undergraduate Natural Sciences student at the University of Cambridge, UK. Having campaigned throughout his teens both with Friends of the Earth and as part of the global school strike movement, Sam is now an organizer with Cambridge Climate Justice, alongside his work with Fossil Free Research, which he has been involved with since its inception."
+                "position": "Steering Committee",
+                "bio": "Sam Gee (he/him) is from London and is a second-year undergraduate Natural Sciences student at the University of Cambridge, UK. Having campaigned throughout his teens both with Friends of the Earth and as part of the global school strike movement, Sam is now an organizer with Cambridge Climate Justice, alongside his work with Fossil Free Research, which he has been involved with since its inception."
+            },
+            {
+                "name": "Amanda Campos",
+                "picture": "/assets/images/member_pictures/amanda.jpg",
+                "position": "Steering Committee",
+                "bio": "Amanda Campos (she/her) is a rising sophomore at Stanford University double majoring in Earth Systems and Public Policy. Born in the iconic city of Rio de Janeiro, Brazil, she moved to the 20-million-people, skyscrapers-filled São Paulo when she was 3 years old and then to South Florida when she was 13. She is an active leader in the Coalition for a True School of Sustainability as well as part of Students for a Sustainable Stanford. She dreams of going to law school to study environmental law and advance science-based policy at the federal government level."
             },
             {
                 "name": "Olivia Chang",
                 "picture": "/assets/images/member_pictures/olivia.jpg",
                 "position": "Web Developer",
-                "bio": "Olivia is studying engineering with a concentration in design at Olin College. She founded Olin Climate Justice, Olin’s fossil fuel divestment group, and organizes with the Public Interest Technology club on campus! She is originally from the Bay Area and enjoys hiking, camping, and conservation work."
-            },
-            {
-                "name": "Keigan McCullagh",
-                "picture": "/assets/images/member_pictures/keigan.jpg",
-                "position": "Social Media Coordinator",
-                "bio": "Keigan McCullagh (they/them) is a sophomore from Las Vegas, NV studying political communication at the George Washington University. They are the Communications Director for Sunrise GW and have helped lead its No Fossil Fuel Money campaign for the past year. For Fossil Free Research, they are happy to be helping grow the movement through social media!"
+                "bio": "Olivia is studying engineering and design at Olin College. She founded Olin Climate Justice, Olin’s fossil fuel divestment group, and organizes with the Public Interest Technology club on campus! She is originally from the Bay Area and enjoys hiking and camping."
             }
         ],
         "adv_board_members": [

@@ -15,6 +15,29 @@ eleventyNavigation:
 
 <section class="section-gray-background">
     <div class="container">
+        {% set sectionTitle = "Staff" %}
+        {% include "title.njk" %}
+        <div class="row equal">
+            {% for person in home.about.staff %}
+                <div class="col-lg-6 col-bio">
+                    <div class="bio-container">
+                        <div class="bio-image-container">
+                            <img class="bio-image" src="{{person.picture}}">
+                        </div>
+                        <div class="bio-content">
+                            <h3 class="bio-title">{{person.name}}</h3>
+                            <p class="bio-position">{{person.position}}</p>
+                            <p class="bio-text readmore">{{person.bio}}</p>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<section class="section-gray-background">
+    <div class="container">
         {% set sectionTitle = "Steering Committee" %}
         {% include "title.njk" %}
         <div class="row equal">

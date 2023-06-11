@@ -14,13 +14,23 @@ eleventyNavigation:
     <div class="container">
         <div class="offset-md-1 col-md-10 offset-lg-2 col-lg-8 offset-xl-3 col-xl-6 text-center">
             <p>The Fossil Free Research Coalition coordinates efforts to dismantle Big Oil’s toxic influence on higher education across institutions and borders. It includes student and academic activists from dozens of universities including Harvard, George Washington, University of Toronto,  Cambridge, Oxford, Brown Universities, and many more. It holds regular online meetings, which are open to anyone looking to get more involved with Fossil Free Research campaigning.</p>
-            <p><i>To get involved in the coalition, visit <a href="https://bit.ly/joinfosfreeresearch">bit.ly/joinfosfreeresearch</a></i></p>
-            <p><i>To officially endorse the organization, visit <a href="https://bit.ly/endorsefosfreeresearch">bit.ly/endorsefosfreeresearch</a></i></p>
+            <div class="coalition__buttons">
+                <a href="https://actionnetwork.org/forms/get-involved-with-fossil-free-research/" target="_blank">
+                    <button type="button" class="btn btn-primary">
+                        Get Involved
+                    </button>
+                </a>
+                <a href="https://bit.ly/endorsefosfreeresearch" target="_blank">
+                    <button type="button" class="btn btn-primary">
+                        Endorse Us
+                    </button>
+                </a>
+            </div>
         </div>
     </div>
 </section>
 <section class="section-white-background">
-        <div class="offset-md-1 col-md-10 offset-lg-2 col-lg-8 offset-xl-3 col-xl-6">
+        <div class="offset-md-1 col-md-10">
             <h3 class="text-center coalition__logos-title">Coalition members and supporters</h3>
             <div class="row">
                 {% for logo in home.coalition %}

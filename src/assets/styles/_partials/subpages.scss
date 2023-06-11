@@ -42,9 +42,9 @@
 
 .coverage__card {
     &:hover {
-        background-color: $orange;
         p {
-            color: white;
+            color: $orange;
+            text-decoration: underline;
         }
     }
 }
@@ -85,6 +85,12 @@
 /*==================*/
 /*----  COALITION  ----*/
 /*==================*/
+
+.coalition__buttons {
+    button {
+        margin: $SCALE-1;
+    }
+}
 
 .coalition__logos-title {
 

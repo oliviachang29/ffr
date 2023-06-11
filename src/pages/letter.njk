@@ -7,18 +7,17 @@ eleventyNavigation:
   order: 2
 ---
 
-<div class="container-fluid d-flex justify-content-center align-items-center hero hero__medium" style="background-image: url('/assets/images/hero_images/1.png')">
+<div
+    class="container-fluid d-flex flex-column justify-content-center align-items-center hero hero__medium"
+    style="background-image: url('/assets/images/hero_images/1.png')">
     <h1 class="text-align-center">Our Letter</h1>
     <div class="d-flex flex-row justify-content-center">
-        <a href="https://forms.gle/ZUDwLUN7tZ2Gj85k9" target="_blank">
-            <button
-                id="letter__sign-the-letter-btn"
-                type="button"
-                class="btn btn-primary">
+        <a href="#sign-letter">
+            <button id="letter__sign-the-letter-btn" type="button" class="btn btn-primary">
                 Sign the letter
-            </div>
+            </button>
         </a>
-    </button>
+    </div>
 </div>
 <section>
     <div class="container">
@@ -28,7 +27,16 @@ eleventyNavigation:
             <div id="letter-page__large-numbers-container" class="text-align-center">
                 {% include "letterstats.njk" %}
             </div>
-            {% include "letter.njk" %}
+            {% include "letter.njk" %} <link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css'/><script src='https://actionnetwork.org/widgets/v5/form/fossil-free-research-open-letter?format=js&source=widget'></script>
+        </div>
+    </div>
+</section>
+<section id="sign-letter" class="section-gray-background">
+    <div class="container">
+        <div class="offset-md-2 col-md-8">
+            {% set sectionTitle = "Sign The Letter" %}
+            {% include "title.njk"%}
+            <div id='can-form-area-fossil-free-research-open-letter' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
         </div>
     </div>
 </section>
